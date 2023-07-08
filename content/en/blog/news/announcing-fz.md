@@ -1,8 +1,8 @@
 ---
-title: Annoucing the FZ Project
+title: Annoucing the SZ4 Project
 date: 2023-06-27
 description: >
-    We've created the FZ project
+    We've created the SZ4 project
 ---
 
 

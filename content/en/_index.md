@@ -2,14 +2,16 @@
 title: Goldydocs
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+
+{{< blocks/cover title="SZ4 Lossy Compressor" image_anchor="top" height="full" >}}
+
+<a class="" href="/docs/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" width="100" height="100" />
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+
+
+
+<p class="lead mt-5">We will create a framework called “FZ” to enable users to compose and use novel, specialized lossy compressors more swiftly. The framework caters to their domains, applications, use cases, and requirements.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 

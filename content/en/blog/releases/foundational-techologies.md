@@ -3,7 +3,7 @@ title: Foundational Techologies
 date: 2023-06-27
 ---
 
-FZ is under active development.  We hope to release our first version soon.  Here are some of the fundemental techologies that FZ will be built on:
+SZ4 is under active development.  We hope to release our first version soon.  Here are some of the fundemental techologies that SZ4 will be built on:
 
 # SZ3
 
