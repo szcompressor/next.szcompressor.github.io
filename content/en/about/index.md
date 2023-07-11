@@ -53,7 +53,14 @@ We work together with researcher all over the world to build the most advanced l
 </div>
 
 
-## Kai Zhao
+
+<a style="font-size: 30px;" href="https://ayzk.github.io/" target="_blank">Kai Zhao</a>
+
+
+<div style="display: flex; align-items: center;">
+  <img src="https://ayzk.github.io/data/me.jpg" alt="Kai Zhao" width="200" height="200">
+  <p style="margin-left: 20px;">Dr. Kai Zhao is a tenure-track assistant professor in the Department of Computer Science at Florida State University. He received his Ph.D. from University of California, Riverside in 2022 and his B.S. from Peking University in 2014. He received the Dean’s Distinguished Fellowship (2017), the Dissertation Year Program Fellowship (2021), and the Laxmi N. Bhuyan Fellowship (2021) from University of California, Riverside. His research interests include scientific data management, reduction, and analytics, and fault-tolerant computing. He is one of the key developers and researchers of the SZ lossy compression software which won the 2021 R&D 100 Award. He has published more than 20 papers in prestigious conferences and journals, including SC, HPDC, PPoPP, VLDB, ICDE, ACM ICS, PACT, and TPDS.</p>
+</div>
 
 ## Hanqi Gao
 
