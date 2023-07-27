@@ -89,6 +89,7 @@ section = ["HTML", "print", "RSS"]
 
 [params]
 copyright = "The University of Chicago"
+uchicago_logo = ""
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -191,7 +192,7 @@ enable = true
   desc = "Development takes place here!"
 [[params.links.developer]]
   name = "Slack"
-  url = "https://example.org/slack"
+  url = "https://join.slack.com/t/fz-q4u9120/shared_invite/zt-200sheag2-6gTJokP6gJYrn_AKXr8VZw"
   icon = "fab fa-slack"
   desc = "Chat with other project developers"
 #[[params.links.developer]]
