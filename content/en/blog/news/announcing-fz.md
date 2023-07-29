@@ -6,5 +6,5 @@ description: >
 ---
 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+We are thrilled to announce the launch of the new generation of the SZ lossy compression framework--SZ4, along with its official website! SZ4 is highly modularized, flexible, and easy to customize for specialized use cases, catering to a broad spectrum of scientific applications.
 

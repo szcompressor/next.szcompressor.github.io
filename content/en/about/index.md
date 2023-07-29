@@ -89,8 +89,50 @@ We work together with researcher all over the world to build the most advanced l
 # Graduate Students
 {.text-center}
 
-https://static.wixstatic.com/media/f33fae_7b65dc1d05df437f9d91d802f747da64~mv2_d_3514_3514_s_4_2.jpg/v1/fill/w_920,h_920,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/jiannan-photo.jpg
+{{% /blocks/section %}}
 
+<div style="display:flex;align-items: center;justify-content:flex-start;width:400px;flex-wrap: wrap;">
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Jiannan.webp" alt="Jiannan Tian" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h4>Jiannan Tian</h4>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Boyuan.webp" alt="Boyuan Zhang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h4>Boyuan Zhang</h4>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Jinyang.png" alt="Jinyang Liu" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h4>Jinyang Liu</h4>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Yafan.png" alt="Yafan Huang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h4>Yafan Huang</h4>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Milan.png" alt="Milan Shah" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h4>Milan Shah</h4>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Hasan.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h4>Md Hasanur Rahman</h4>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./LongTao.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h4>Longtao Zhang</h4>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./LongTao.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h4>Longtao Zhang</h4>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./LongTao.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h4>Longtao Zhang</h4>
+  </div>
+</div>
+
+{{% blocks/section %}}
+
+<br/>
 # TODO
 
 {{% /blocks/section %}}
