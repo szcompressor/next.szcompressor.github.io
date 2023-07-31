@@ -91,7 +91,7 @@ We work together with researcher all over the world to build the most advanced l
 
 {{% /blocks/section %}}
 
-<div style="display:flex;align-items: center;justify-content:flex-start;width:400px;flex-wrap: wrap;">
+<div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));gap: 10px;max-width: 100%;">
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Jiannan.webp" alt="Jiannan Tian" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h4>Jiannan Tian</h4>
@@ -115,14 +115,6 @@ We work together with researcher all over the world to build the most advanced l
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Hasan.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h4>Md Hasanur Rahman</h4>
-  </div>
-  <div style="display:flex;flex-direction:column;margin:5px;">
-    <img src="./LongTao.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
-    <h4>Longtao Zhang</h4>
-  </div>
-  <div style="display:flex;flex-direction:column;margin:5px;">
-    <img src="./LongTao.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
-    <h4>Longtao Zhang</h4>
   </div>
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./LongTao.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
