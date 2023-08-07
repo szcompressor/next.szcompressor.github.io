@@ -23,6 +23,9 @@ jobs:
           hugo-version: '0.114.1'
           extended: true
 
+      - name: Setup JS Dependencies
+        run: npm install
+
       - name: Build
         run: hugo --minify
 
