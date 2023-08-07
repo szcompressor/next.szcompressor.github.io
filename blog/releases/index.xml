@@ -1,0 +1,9 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SZ4 – Releases</title><link>/blog/releases/</link><description>Recent content in Releases on SZ4</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/blog/releases/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Foundational Techologies</title><link>/blog/2023/06/27/foundational-techologies/</link><pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate><guid>/blog/2023/06/27/foundational-techologies/</guid><description>
+&lt;p>SZ4 is under active development. We hope to release our first version soon. Here are some of the fundemental techologies that SZ4 will be built on:&lt;/p>
+&lt;h1 id="sz3">SZ3&lt;/h1>
+&lt;!--
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+# LibPressio
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+# cuSZ
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. --></description></item></channel></rss>
