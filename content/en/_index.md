@@ -3,7 +3,7 @@ title: Goldydocs
 ---
 
 
-{{< blocks/cover title="SZ4 Lossy Compressor" image_anchor="top" height="full" >}}
+{{< blocks/cover title="SZ4 Lossy Compression Framework" image_anchor="top" height="full" >}}
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" alt="NSF_Logo" width="100" height="100" />
 
@@ -63,6 +63,9 @@ For announcement of latest features etc.
 
 
 {{% /blocks/section %}}
+
+<img style="border-radius: 50%;display:flex;justify-content:center;width:100%;" src="./SZ4-organization-and-funding.svg" alt="UChicago" width="700" height="700">
+
 
 
 <!-- {{% blocks/section type="row" %}}
