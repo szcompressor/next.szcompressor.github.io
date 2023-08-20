@@ -696,7 +696,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath294)"
          id="g290"><text
            id="text298"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,749.21,304.85)"><tspan
              id="tspan296"
              y="0"
@@ -782,7 +782,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath394)"
          id="g390"><text
            id="text398"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,761.86,157.51)"><tspan
              id="tspan396"
              y="0"
@@ -842,7 +842,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath466)"
          id="g462"><text
            id="text470"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,761.86,114.31)"><tspan
              id="tspan468"
              y="0"
@@ -1020,7 +1020,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath702)"
          id="g698"><text
            id="text706"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,96.024,122.33)"><tspan
              id="tspan704"
              y="0"
@@ -1109,7 +1109,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath804)"
          id="g800"><text
            id="text808"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,110.98,300.29)"><tspan
              id="tspan806"
              y="0"
@@ -1163,6 +1163,61 @@ For announcement of latest features etc.
   clickableElement.addEventListener("click", function() {
     // Redirect to the desired URL
     window.location.href = "/fz";
+  });
+</script>
+
+<script>
+  // Get a reference to the clickable SVG element
+  var clickableElement = document.getElementById("text298");
+  
+  // Add a click event listener to the element
+  clickableElement.addEventListener("click", function() {
+    // Redirect to the desired URL
+    window.location.href = "https://github.com/szcompressor/SZ3";
+  });
+</script>
+
+<script>
+  // Get a reference to the clickable SVG element
+  var clickableElement = document.getElementById("text808");
+  
+  // Add a click event listener to the element
+  clickableElement.addEventListener("click", function() {
+    // Redirect to the desired URL
+    window.location.href = "https://roccilab.github.io/rocci/";
+  });
+</script>
+
+<script>
+  // Get a reference to the clickable SVG element
+  var clickableElement = document.getElementById("text706");
+  
+  // Add a click event listener to the element
+  clickableElement.addEventListener("click", function() {
+    // Redirect to the desired URL
+    window.location.href = "https://github.com/robertu94/libpressio";
+  });
+</script>
+
+<script>
+  // Get a reference to the clickable SVG element
+  var clickableElement = document.getElementById("text470");
+  
+  // Add a click event listener to the element
+  clickableElement.addEventListener("click", function() {
+    // Redirect to the desired URL
+    window.location.href = "https://github.com/hipdac-lab/SC23-AMRIC";
+  });
+</script>
+
+<script>
+  // Get a reference to the clickable SVG element
+  var clickableElement = document.getElementById("text398");
+  
+  // Add a click event listener to the element
+  clickableElement.addEventListener("click", function() {
+    // Redirect to the desired URL
+    window.location.href = "https://github.com/szcompressor/MMD-SZ";
   });
 </script>
 
