@@ -5,13 +5,9 @@ title: Goldydocs
 
 {{< blocks/cover title="FZ Compressor" image_anchor="top" height="full" >}}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" alt="NSF_Logo" width="100" height="100" />
-
-<br />
-
 <img src="../UsDeptOfEnergy.png" alt="US Dept of Energy,Office of Science" width="300" height="100" />
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" alt="NSF_Logo" width="100" height="100" />
 
 
 <p class="lead mt-5">We will create a framework called “FZ” to enable users to compose and use novel, specialized lossy compressors more swiftly. The framework caters to their domains, applications, use cases, and requirements.</p>
