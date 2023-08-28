@@ -1,69 +1,3 @@
----
-title: Goldydocs
----
-
-
-{{< blocks/cover title="SZ4 Lossy Compression Framework" image_anchor="top" height="full" >}}
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" alt="NSF_Logo" width="100" height="100" />
-
-<br />
-
-<img src="./UsDeptOfEnergy.png" alt="US Dept of Energy,Office of Science" width="300" height="100" />
-
-
-
-
-<p class="lead mt-5">We will create a framework called “FZ” to enable users to compose and use novel, specialized lossy compressors more swiftly. The framework caters to their domains, applications, use cases, and requirements.</p>
-{{< blocks/link-down color="info" >}}
-{{< /blocks/cover >}}
-
-
-<!-- {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
-
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
-{{% /blocks/lead %}} -->
-
-
-<!-- {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
-
-Please follow this space for updates!
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-
-{{% /blocks/section %}} -->
-
-
-{{% blocks/section %}}
-<h1 style="text-align:center;">We are working with the following institutions.</h1>
-<br />
-<div style="display:flex;justify-content: space-around;width:100%">
-<img style="border-radius: 50%;" src="./uchicago.png" alt="UChicago" width="200" height="200">
-<img style="border-radius: 50%;" src="./iu.jpeg" alt="Indiana University" width="200" height="200">
-<img style="border-radius: 50%;" src="./osu.png" alt="Ohio State University" width="200" height="200">
-<img style="border-radius: 50%;" src="./fsu.jpeg" alt="Florida State University" width="200" height="200">
-</div>
-
-
-
-{{% /blocks/section %}}
-<div style="width:100%;display:flex;justify-content:center;">
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -696,7 +630,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath294)"
          id="g290"><text
            id="text298"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,749.21,304.85)"><tspan
              id="tspan296"
              y="0"
@@ -782,7 +716,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath394)"
          id="g390"><text
            id="text398"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,761.86,157.51)"><tspan
              id="tspan396"
              y="0"
@@ -842,7 +776,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath466)"
          id="g462"><text
            id="text470"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,761.86,114.31)"><tspan
              id="tspan468"
              y="0"
@@ -940,7 +874,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath606)"
          id="g602"><text
            id="text610"
-           style="font-variant:normal;cursor:pointer;font-weight:bold;font-size:24px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:bold;font-size:24px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(-4.4e-8,1,1,4.4e-8,67.104,190.63)"><tspan
              id="tspan608"
              y="0"
@@ -1020,7 +954,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath702)"
          id="g698"><text
            id="text706"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,96.024,122.33)"><tspan
              id="tspan704"
              y="0"
@@ -1109,7 +1043,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath804)"
          id="g800"><text
            id="text808"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,110.98,300.29)"><tspan
              id="tspan806"
              y="0"
@@ -1151,98 +1085,3 @@ For announcement of latest features etc.
              style="image-rendering:optimizeSpeed"
              height="1"
              width="1" /></g></g></g></g></svg>
-</div>
-
-<!-- <img style="border-radius: 50%;display:flex;justify-content:center;width:100%;" src="./SZ4-organization-and-funding.svg" alt="UChicago" width="700" height="700"> -->
-
-<script>
-  // Get a reference to the clickable SVG element
-  var clickableElement = document.getElementById("text610");
-  
-  // Add a click event listener to the element
-  clickableElement.addEventListener("click", function() {
-    // Redirect to the desired URL
-    window.location.href = "/fz";
-  });
-</script>
-
-<script>
-  // Get a reference to the clickable SVG element
-  var clickableElement = document.getElementById("text298");
-  
-  // Add a click event listener to the element
-  clickableElement.addEventListener("click", function() {
-    // Redirect to the desired URL
-    window.location.href = "https://github.com/szcompressor/SZ3";
-  });
-</script>
-
-<script>
-  // Get a reference to the clickable SVG element
-  var clickableElement = document.getElementById("text808");
-  
-  // Add a click event listener to the element
-  clickableElement.addEventListener("click", function() {
-    // Redirect to the desired URL
-    window.location.href = "https://roccilab.github.io/rocci/";
-  });
-</script>
-
-<script>
-  // Get a reference to the clickable SVG element
-  var clickableElement = document.getElementById("text706");
-  
-  // Add a click event listener to the element
-  clickableElement.addEventListener("click", function() {
-    // Redirect to the desired URL
-    window.location.href = "https://github.com/robertu94/libpressio";
-  });
-</script>
-
-<script>
-  // Get a reference to the clickable SVG element
-  var clickableElement = document.getElementById("text470");
-  
-  // Add a click event listener to the element
-  clickableElement.addEventListener("click", function() {
-    // Redirect to the desired URL
-    window.location.href = "https://github.com/hipdac-lab/SC23-AMRIC";
-  });
-</script>
-
-<script>
-  // Get a reference to the clickable SVG element
-  var clickableElement = document.getElementById("text398");
-  
-  // Add a click event listener to the element
-  clickableElement.addEventListener("click", function() {
-    // Redirect to the desired URL
-    window.location.href = "https://github.com/szcompressor/MMD-SZ";
-  });
-</script>
-
-
-<!-- {{% blocks/section type="row" %}}
-
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}} -->
-
-
-<!-- {{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
-{{% /blocks/section %}} -->
