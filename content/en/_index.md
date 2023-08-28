@@ -5,13 +5,12 @@ title: Goldydocs
 
 {{< blocks/cover title="SZ4 Lossy Compression Framework" image_anchor="top" height="full" >}}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" alt="NSF_Logo" width="100" height="100" />
+<img src="./UsDeptOfEnergy.png" alt="US Dept of Energy,Office of Science" width="300" height="100" />
 
 <br />
 
-<img src="./UsDeptOfEnergy.png" alt="US Dept of Energy,Office of Science" width="300" height="100" />
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" alt="NSF_Logo" width="100" height="100" />
 
 
 <p class="lead mt-5">We will create a framework called “FZ” to enable users to compose and use novel, specialized lossy compressors more swiftly. The framework caters to their domains, applications, use cases, and requirements.</p>
@@ -49,20 +48,6 @@ For announcement of latest features etc.
 
 {{% /blocks/section %}} -->
 
-
-{{% blocks/section %}}
-<h1 style="text-align:center;">We are working with the following institutions.</h1>
-<br />
-<div style="display:flex;justify-content: space-around;width:100%">
-<img style="border-radius: 50%;" src="./uchicago.png" alt="UChicago" width="200" height="200">
-<img style="border-radius: 50%;" src="./iu.jpeg" alt="Indiana University" width="200" height="200">
-<img style="border-radius: 50%;" src="./osu.png" alt="Ohio State University" width="200" height="200">
-<img style="border-radius: 50%;" src="./fsu.jpeg" alt="Florida State University" width="200" height="200">
-</div>
-
-
-
-{{% /blocks/section %}}
 <div style="width:100%;display:flex;justify-content:center;">
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
@@ -686,7 +671,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath282)"
          id="g278"><text
            id="text286"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,749.21,326.45)"><tspan
              id="tspan284"
              y="0"
@@ -812,7 +797,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath430)"
          id="g426"><text
            id="text434"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,761.86,135.91)"><tspan
              id="tspan432"
              y="0"
@@ -1040,7 +1025,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath726)"
          id="g722"><text
            id="text730"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,111.05,342.55)"><tspan
              id="tspan728"
              y="0"
@@ -1153,6 +1138,25 @@ For announcement of latest features etc.
              width="1" /></g></g></g></g></svg>
 </div>
 
+{{% blocks/section %}}
+<h1 style="text-align:center;">We are working with the following institutions.</h1>
+<br />
+<div style="display:flex;justify-content: space-around;width:100%;flex-wrap:wrap;">
+<img style="border-radius: 50%;margin:2%" src="../Argonne.png" alt="Florida State University" width="300" height="200">
+<img style="border-radius: 50%;margin:2%" src="./cu.svg.png" alt="Clemson University" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./iu.jpeg" alt="Indiana University" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./uk.png" alt="University of Kentucky" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./uab.png" alt="University of Alabama at Birmingham" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./ucal.png" alt="University of California, Riverside" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="../uchicago.png" alt="UChicago" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="../osu.png" alt="Ohio State University" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="../fsu.jpeg" alt="Florida State University" width="200" height="200">
+
+</div>
+
+
+
+{{% /blocks/section %}}
 <!-- <img style="border-radius: 50%;display:flex;justify-content:center;width:100%;" src="./SZ4-organization-and-funding.svg" alt="UChicago" width="700" height="700"> -->
 
 <script>
@@ -1162,7 +1166,7 @@ For announcement of latest features etc.
   // Add a click event listener to the element
   clickableElement.addEventListener("click", function() {
     // Redirect to the desired URL
-    window.location.href = "/fz";
+    window.location.href = "https://szcompressor.org/next.szcompressor.github.io/fz/";
   });
 </script>
 
@@ -1220,6 +1224,40 @@ For announcement of latest features etc.
     window.location.href = "https://github.com/szcompressor/MMD-SZ";
   });
 </script>
+
+<script>
+  // Get a reference to the clickable SVG element
+  var clickableElement = document.getElementById("text286");
+  
+  // Add a click event listener to the element
+  clickableElement.addEventListener("click", function() {
+    // Redirect to the desired URL
+    window.location.href = "https://github.com/szcompressor/SZ";
+  });
+</script>
+
+<script>
+  // Get a reference to the clickable SVG element
+  var clickableElement = document.getElementById("text730");
+  
+  // Add a click event listener to the element
+  clickableElement.addEventListener("click", function() {
+    // Redirect to the desired URL
+    window.location.href = "https://github.com/robertu94/libpressio_opt";
+  });
+</script>
+
+<script>
+  // Get a reference to the clickable SVG element
+  var clickableElement = document.getElementById("text434");
+  
+  // Add a click event listener to the element
+  clickableElement.addEventListener("click", function() {
+    // Redirect to the desired URL
+    window.location.href = "https://github.com/robertu94/roibin-sz3-experiments ";
+  });
+</script>
+
 
 
 <!-- {{% blocks/section type="row" %}}
