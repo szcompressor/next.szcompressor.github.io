@@ -671,7 +671,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath282)"
          id="g278"><text
            id="text286"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,749.21,326.45)"><tspan
              id="tspan284"
              y="0"
@@ -681,7 +681,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath294)"
          id="g290"><text
            id="text298"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,749.21,304.85)"><tspan
              id="tspan296"
              y="0"
@@ -709,57 +709,7 @@ For announcement of latest features etc.
 </g></g><path
        id="path324"
        style="fill:none;stroke:#4472c4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-       d="m 736.02,295.74 c -8.22,0 -14.88,1.11 -14.88,2.48 v 28.52 c 0,1.37 -6.66,2.48 -14.88,2.48 8.22,0 14.88,1.11 14.88,2.48 v 28.52 c 0,1.37 6.66,2.48 14.88,2.48" /><g
-       id="g326"><g
-         clip-path="url(#clipPath332)"
-         id="g328"><text
-           id="text336"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,402.48,192.6)"><tspan
-             id="tspan334"
-             y="0"
-             x="0 11.04 22.926001">DOE</tspan></text>
-</g></g><g
-       id="g338"><g
-         clip-path="url(#clipPath344)"
-         id="g340"><text
-           id="text348"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#0070c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,404.57,37.272)"><tspan
-             id="tspan346"
-             y="0"
-             x="0 11.664 19.962">NSF</tspan></text>
-</g></g><g
-       id="g350"><g
-         clip-path="url(#clipPath356)"
-         id="g352"><text
-           id="text360"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#0070c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,209.06,96.864)"><tspan
-             id="tspan358"
-             y="0"
-             x="0 11.64 19.914">NSF</tspan></text>
-</g></g><g
-       id="g362"><g
-         clip-path="url(#clipPath368)"
-         id="g364"><text
-           id="text372"
-           style="font-variant:normal;font-weight:normal;font-size:18.02400017px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#0070c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,227.9,272.26)"><tspan
-             id="tspan370"
-             y="0"
-             x="0 11.643504 19.916519">NSF</tspan></text>
-</g></g><g
-       id="g374"><g
-         clip-path="url(#clipPath380)"
-         id="g376"><text
-           id="text384"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#0070c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,387.1,370.15)"><tspan
-             id="tspan382"
-             y="0"
-             x="0 11.64 19.914">NSF</tspan></text>
-</g></g><path
+       d="m 736.02,295.74 c -8.22,0 -14.88,1.11 -14.88,2.48 v 28.52 c 0,1.37 -6.66,2.48 -14.88,2.48 8.22,0 14.88,1.11 14.88,2.48 v 28.52 c 0,1.37 6.66,2.48 14.88,2.48" /><path
        id="path386"
        style="fill:none;stroke:#4472c4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 751.86,105.18 c -8.22,0 -14.88,1.11 -14.88,2.48 v 28.58 c 0,1.37 -6.66,2.48 -14.88,2.48 8.22,0 14.88,1.11 14.88,2.48 v 28.58 c 0,1.37 6.66,2.48 14.88,2.48" /><g
@@ -767,7 +717,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath394)"
          id="g390"><text
            id="text398"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,761.86,157.51)"><tspan
              id="tspan396"
              y="0"
@@ -777,7 +727,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath406)"
          id="g402"><text
            id="text410"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,803.62,157.51)"><tspan
              id="tspan408"
              y="0"
@@ -787,7 +737,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath418)"
          id="g414"><text
            id="text422"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,809.14,157.51)"><tspan
              id="tspan420"
              y="0"
@@ -797,7 +747,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath430)"
          id="g426"><text
            id="text434"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,761.86,135.91)"><tspan
              id="tspan432"
              y="0"
@@ -807,7 +757,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath442)"
          id="g438"><text
            id="text446"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,811.3,135.91)"><tspan
              id="tspan444"
              y="0"
@@ -817,7 +767,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath454)"
          id="g450"><text
            id="text458"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,816.82,135.91)"><tspan
              id="tspan456"
              y="0"
@@ -827,7 +777,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath466)"
          id="g462"><text
            id="text470"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,761.86,114.31)"><tspan
              id="tspan468"
              y="0"
@@ -837,7 +787,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath478)"
          id="g474"><text
            id="text482"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,797.38,114.31)"><tspan
              id="tspan480"
              y="0"
@@ -847,7 +797,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath490)"
          id="g486"><text
            id="text494"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;font-weight:normal;text-decoration: underline;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,802.9,114.31)"><tspan
              id="tspan492"
              y="0"
@@ -925,190 +875,54 @@ For announcement of latest features etc.
          clip-path="url(#clipPath606)"
          id="g602"><text
            id="text610"
-           style="font-variant:normal;cursor:pointer;font-weight:bold;font-size:24px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration: underline;font-weight:bold;font-size:24px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(-4.4e-8,1,1,4.4e-8,67.104,190.63)"><tspan
              id="tspan608"
              y="0"
              x="0 10.92 22.392 27.719999 38.736 46.799999 58.655998 78.216003 90.216003 107.856 120.768 129.28799">FZ Framework</tspan></text>
 </g></g><g
-       id="g612"><g
-         clip-path="url(#clipPath618)"
-         id="g614"><text
-           id="text622"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,789.34,350.83)"><tspan
-             id="tspan620"
-             y="0"
-             x="0 11.04 22.926001">DOE</tspan></text>
-</g></g><g
-       id="g624"><g
-         clip-path="url(#clipPath630)"
-         id="g626"><text
-           id="text634"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,789.34,327)"><tspan
-             id="tspan632"
-             y="0"
-             x="0 11.04 22.926001">DOE</tspan></text>
-</g></g><g
-       id="g636"><g
-         clip-path="url(#clipPath642)"
-         id="g638"><text
-           id="text646"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,789.34,303.19)"><tspan
-             id="tspan644"
-             y="0"
-             x="0 11.04 22.926001">DOE</tspan></text>
-</g></g><g
-       id="g648"><g
-         clip-path="url(#clipPath654)"
-         id="g650"><text
-           id="text658"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,846.89,157.32)"><tspan
-             id="tspan656"
-             y="0"
-             x="0 11.04 22.926001">DOE</tspan></text>
-</g></g><g
-       id="g660"><g
-         clip-path="url(#clipPath666)"
-         id="g662"><text
-           id="text670"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,846.89,133.25)"><tspan
-             id="tspan668"
-             y="0"
-             x="0 11.04 22.926001">DOE</tspan></text>
-</g></g><g
-       id="g672"><g
-         clip-path="url(#clipPath678)"
-         id="g674"><text
-           id="text682"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,557.42,478.06)"><tspan
-             id="tspan680"
-             y="0"
-             x="0 11.07 22.914 31.698 36.521999 40.77 49.284 58.877998 68.129997 72.197998 81.648003 87.695999 97.181999 101.484 110.448 118.062">DOE: ECP project</tspan></text>
-</g></g><g
-       id="g684"><g
-         clip-path="url(#clipPath690)"
-         id="g686"><text
-           id="text694"
-           style="font-variant:normal;font-weight:normal;font-size:18.02400017px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#0070c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,557.42,456.46)"><tspan
-             id="tspan692"
-             y="0"
-             x="0 11.643504 19.916519 28.189535 33.019966 37.093391 45.240238 53.675472 57.748898 67.211494 73.195465 82.694115 87.001846 95.977798 103.60195">NSF: FZ project</tspan></text>
-</g></g><g
        id="g696"><g
          clip-path="url(#clipPath702)"
          id="g698"><text
            id="text706"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,96.024,122.33)"><tspan
              id="tspan704"
              y="0"
              x="0 7.5599999 11.7 21.15 30.455999 36.450001 45.450001 52.542 59.633999 63.720001">LibPressio</tspan></text>
 </g></g><g
-       id="g708"><g
-         clip-path="url(#clipPath714)"
-         id="g710"><text
-           id="text718"
-           style="font-variant:normal;font-weight:normal;font-size:18.02400017px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,96.024,100.73)"><tspan
-             id="tspan716"
-             y="0"
-             x="0 11.06396 22.975048">DOE</tspan></text>
-</g></g><g
        id="g720"><g
          clip-path="url(#clipPath726)"
          id="g722"><text
            id="text730"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,111.05,342.55)"><tspan
              id="tspan728"
              y="0"
              x="0 11.916 21.294001 27.323999 35.622002 43.091999 52.577999 62.028 67.517998 71.585999">OptZconfig</tspan></text>
-</g></g><g
-       id="g732"><g
-         clip-path="url(#clipPath738)"
-         id="g734"><text
-           id="text742"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,111.05,320.95)"><tspan
-             id="tspan740"
-             y="0"
-             x="0 11.064 22.974001">DOE</tspan></text>
 </g></g><path
        id="path744"
-       style="fill:#0070c0;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 350.16,33.96 h 42.96 V 63 h -42.96 z" /><g
+      /><g
        id="g746"><g
-         clip-path="url(#clipPath752)"
-         id="g748"><text
-           id="text756"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,357.46,42.504)"><tspan
-             id="tspan754"
-             y="0"
-             x="0 11.64 19.914">NSF</tspan></text>
+         id="g748">
 </g></g><path
        id="path758"
-       style="fill:#548235;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 354.72,90.96 h 43.2 v 26.76 h -43.2 z" /><g
-       id="g760"><g
-         clip-path="url(#clipPath766)"
-         id="g762"><text
-           id="text770"
-           style="font-variant:normal;font-weight:normal;font-size:15.96000004px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,361.94,98.976)"><tspan
-             id="tspan768"
-             y="0"
-             x="0 9.8154001 20.38092">DOE</tspan></text>
-</g></g><path
+       style=""
+        /><path
        id="path772"
-       style="fill:#548235;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 351,60.36 h 43.2 V 87 H 351 Z" /><g
+       /><g
        id="g774"><g
-         clip-path="url(#clipPath780)"
-         id="g776"><text
-           id="text784"
-           style="font-variant:normal;font-weight:normal;font-size:15.96000004px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,358.25,68.352)"><tspan
-             id="tspan782"
-             y="0"
-             x="0 9.8154001 20.38092">DOE</tspan></text>
-</g></g><g
-       id="g786"><g
-         clip-path="url(#clipPath792)"
-         id="g788"><text
-           id="text796"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,846.62,109.06)"><tspan
-             id="tspan794"
-             y="0"
-             x="0 11.04 22.926001">DOE</tspan></text>
+         id="g776">
 </g></g><g
        id="g798"><g
          clip-path="url(#clipPath804)"
          id="g800"><text
            id="text808"
-           style="font-variant:normal;cursor:pointer;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration: underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,110.98,300.29)"><tspan
              id="tspan806"
              y="0"
              x="0 9.5939999 21.51 31.104 40.698002">ROCCI</tspan></text>
-</g></g><g
-       id="g810"><g
-         clip-path="url(#clipPath816)"
-         id="g812"><text
-           id="text820"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#548235;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,110.98,278.69)"><tspan
-             id="tspan818"
-             y="0"
-             x="0 11.04 22.926001">DOE</tspan></text>
 </g></g><g
        id="g822"><g
          clip-path="url(#clipPath828)"
@@ -1138,25 +952,7 @@ For announcement of latest features etc.
              width="1" /></g></g></g></g></svg>
 </div>
 
-{{% blocks/section %}}
-<h1 style="text-align:center;">We are working with the following institutions.</h1>
-<br />
-<div style="display:flex;justify-content: space-around;width:100%;flex-wrap:wrap;">
-<img style="border-radius: 50%;margin:2%" src="../Argonne.png" alt="Florida State University" width="300" height="200">
-<img style="border-radius: 50%;margin:2%" src="./cu.svg.png" alt="Clemson University" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="./iu.jpeg" alt="Indiana University" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="./uk.png" alt="University of Kentucky" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="./uab.png" alt="University of Alabama at Birmingham" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="./ucal.png" alt="University of California, Riverside" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="../uchicago.png" alt="UChicago" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="../osu.png" alt="Ohio State University" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="../fsu.jpeg" alt="Florida State University" width="200" height="200">
 
-</div>
-
-
-
-{{% /blocks/section %}}
 <!-- <img style="border-radius: 50%;display:flex;justify-content:center;width:100%;" src="./SZ4-organization-and-funding.svg" alt="UChicago" width="700" height="700"> -->
 
 <script>
@@ -1257,6 +1053,28 @@ For announcement of latest features etc.
     window.location.href = "https://github.com/robertu94/roibin-sz3-experiments ";
   });
 </script>
+
+
+
+{{% blocks/section %}}
+<h1 style="text-align:center;">We are working with the following institutions.</h1>
+<br />
+<div style="display:flex;justify-content: space-around;width:100%;flex-wrap:wrap;">
+<img style="border-radius: 50%;margin:2%" src="../Argonne.png" alt="Florida State University" width="300" height="200">
+<img style="border-radius: 50%;margin:2%" src="./cu.svg.png" alt="Clemson University" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./iu.jpeg" alt="Indiana University" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./uk.png" alt="University of Kentucky" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./uab.png" alt="University of Alabama at Birmingham" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./ucal.png" alt="University of California, Riverside" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="../uchicago.png" alt="UChicago" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="../osu.png" alt="Ohio State University" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="../fsu.jpeg" alt="Florida State University" width="200" height="200">
+
+</div>
+
+
+
+{{% /blocks/section %}}
 
 
 
