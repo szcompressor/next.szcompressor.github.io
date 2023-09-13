@@ -1066,7 +1066,7 @@ For announcement of latest features etc.
 <img style="border-radius: 50%;margin:2%" src="./uk.png" alt="University of Kentucky" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./uab.png" alt="University of Alabama at Birmingham" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./ucali.png" alt="University of California, Riverside" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="./uchicago.png" alt="UChicago" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./uchicago.png" alt="University of Chicago" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./osu.png" alt="Ohio State University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./fsu.jpeg" alt="Florida State University" width="200" height="200">
 
