@@ -1060,15 +1060,15 @@ For announcement of latest features etc.
 <h1 style="text-align:center;">We are working with the following institutions.</h1>
 <br />
 <div style="display:flex;justify-content: space-around;width:100%;flex-wrap:wrap;">
-<img style="border-radius: 50%;margin:2%" src="../Argonne.png" alt="Florida State University" width="300" height="200">
+<img style="border-radius: 50%;margin:2%" src="./Argonne.png" alt="Argonne" width="300" height="200">
 <img style="border-radius: 50%;margin:2%" src="./cu.svg.png" alt="Clemson University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./iu.jpeg" alt="Indiana University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./uk.png" alt="University of Kentucky" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./uab.png" alt="University of Alabama at Birmingham" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="./ucal.png" alt="University of California, Riverside" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="../uchicago.png" alt="UChicago" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="../osu.png" alt="Ohio State University" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="../fsu.jpeg" alt="Florida State University" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./ucali.png" alt="University of California, Riverside" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./uchicago.png" alt="UChicago" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./osu.png" alt="Ohio State University" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./fsu.jpeg" alt="Florida State University" width="200" height="200">
 
 </div>
 
