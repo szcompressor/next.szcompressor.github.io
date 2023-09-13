@@ -13,7 +13,7 @@ title: Goldydocs
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" alt="NSF_Logo" width="100" height="100" />
 
 
-<p class="lead mt-5">We will create a framework called “FZ” to enable users to compose and use novel, specialized lossy compressors more swiftly. The framework caters to their domains, applications, use cases, and requirements.</p>
+<p class="lead mt-5">SZ is a modular, parametrizable lossy compressor framework designed for scientific data, including both floating point numbers and integers. It is applicable in fields such as simulations, AI, and instrumentation. Not only is SZ a production-quality software, but it also serves as a research platform for lossy compression. The framework is both open and transparent. It's "open" in that all interested researchers and students can study or contribute to it, and "transparent" in the sense that all performance improvements are detailed in publications.</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
@@ -1060,13 +1060,13 @@ For announcement of latest features etc.
 <h1 style="text-align:center;">We are working with the following institutions.</h1>
 <br />
 <div style="display:flex;justify-content: space-around;width:100%;flex-wrap:wrap;">
-<img style="border-radius: 50%;margin:2%" src="./Argonne.png" alt="Florida State University" width="300" height="200">
+<img style="border-radius: 50%;margin:2%" src="./Argonne.png" alt="Argonne" width="300" height="200">
 <img style="border-radius: 50%;margin:2%" src="./cu.svg.png" alt="Clemson University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./iu.jpeg" alt="Indiana University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./uk.png" alt="University of Kentucky" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./uab.png" alt="University of Alabama at Birmingham" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="./ucal.png" alt="University of California, Riverside" width="200" height="200">
-<img style="border-radius: 50%;margin:2%" src="./uchicago.png" alt="UChicago" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./ucali.png" alt="University of California, Riverside" width="200" height="200">
+<img style="border-radius: 50%;margin:2%" src="./uchicago.png" alt="University of Chicago" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./osu.png" alt="Ohio State University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./fsu.jpeg" alt="Florida State University" width="200" height="200">
 
