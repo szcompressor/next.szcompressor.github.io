@@ -18,33 +18,36 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 &lt;p>Here is the schedule:&lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>8:30 AM&lt;/strong> Welcome/intro/presentation of the schedule: 15 minutes&lt;/li>
-&lt;li>&lt;strong>8:45 AM&lt;/strong> Review of the project objectives and deliverables: 15 minutes
+&lt;li>&lt;strong>8:45 AM&lt;/strong> Review of the project objectives and deliverables: 15 minutes &lt;a href="https://docs.google.com/presentation/d/1DUfy1A_IBmHLpFw5adPDEq22BywmWpJk/edit?%5Dusp=drive_link&amp;amp;ouid=100646677683053029918&amp;amp;rtpof=true&amp;amp;sd=true">[slides]&lt;/a>
 &lt;ul>
 &lt;li>Description of the general modular design (modules for pipeline generation, modules for quality assessment, modules for optimization)&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;strong>9:00 AM&lt;/strong> Programming Interface and Compressor Generators: 75 minutes
 &lt;ul>
-&lt;li>Robert: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress&lt;/li>
-&lt;li>Dingwen: 10 minutes about some specifics of GPUs&lt;/li>
+&lt;li>Robert: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [&lt;a href="">slides&lt;/a>]&lt;/li>
+&lt;li>Dingwen: 10 minutes about some specifics of GPUs [&lt;a href="https://docs.google.com/presentation/d/1nsvHl5yTYf15ptZCwdd9W2cJu9FccNjF/edit?usp=drive_link&amp;amp;ouid=100646677683053029918&amp;amp;rtpof=true&amp;amp;sd=true">slides&lt;/a>]&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;strong>10:15 AM&lt;/strong> Break: 15 minutes&lt;/li>
 &lt;li>&lt;strong>10:30 AM&lt;/strong> Compression module library (modules for compression pipeline composition): 75 minutes
 &lt;ul>
-&lt;li>Kai: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress&lt;/li>
-&lt;li>Presentation from Martin (10 minutes), Jon C. (10 minutes), Xin (10 minutes)&lt;/li>
+&lt;li>Kai: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [&lt;a href="https://drive.google.com/file/d/1PKaEhCiUXGDOwQ1qEeNmzaUaya0b3ZQz/view?usp=drive_link">slides&lt;/a>]&lt;/li>
+&lt;li>Presentation from Martin (10 minutes) [&lt;a href="https://docs.google.com/presentation/d/1DX7_kOY5Co19pt54IfCmi5HUwJnrB-kp/edit?usp=drive_link">slides&lt;/a>]&lt;/li>
+&lt;li>Presentation from Jon C. (10 minutes) [&lt;a href="">slides&lt;/a>]&lt;/li>
+&lt;li>Presentation from Xin (10 minutes) [&lt;a href="https://docs.google.com/presentation/d/1EjJ93gmaWGBWE52lMWjYLFOIKeQ9nnWU/edit?usp=drive_link">slides&lt;/a>]&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;strong>11:45 AM&lt;/strong> Open discussion: 15 minutes&lt;/li>
 &lt;li>&lt;strong>12:00 PM&lt;/strong> Working Lunch: how to maximize adoption?: 60 minutes&lt;/li>
 &lt;li>&lt;strong>01:00 PM&lt;/strong> Visualization, quality assessment, and optimization: 75 minutes
 &lt;ul>
-&lt;li>Hanqi: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress&lt;/li>
+&lt;li>Hanqi: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [&lt;a href="https://docs.google.com/presentation/d/1QH2xxFheEUpEs-yHhiNYuZWDOPGt__T9WUTy2bseN1w/edit?usp=drive_link">slides&lt;/a>]&lt;/li>
 &lt;li>Xiaodong: 10 minutes on Z-checker GPU quality assessment&lt;/li>
 &lt;li>Lin: 10 minutes: How to use topology to evaluate compression output.&lt;/li>
 &lt;li>Robert and Sheng: 10 minutes on optimization&lt;/li>
-&lt;li>Dingwen students: 10 minutes on modules to assess the quality (modules for assessment)&lt;/li>
+&lt;li>Dingwen student (Daoce): 10 minutes on quality assessment (cosmology application, AMR data) [&lt;a href="https://docs.google.com/presentation/d/1cfT4m6Pfzw9q57aPJ11krr-1dSlNoXQL/edit?usp=drive_link">slides&lt;/a>]&lt;/li>
+&lt;li>Hanqi student (Congrong): 10 minutes on quality assessment (topology) [&lt;a href="https://docs.google.com/presentation/d/1pGtiXVAqvsH6AA3HkqlZ9f8uO2lttsiK/edit?usp=drive_link&amp;amp;ouid=100646677683053029918&amp;amp;rtpof=true&amp;amp;sd=true">slides&lt;/a>]&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;strong>02:15 PM&lt;/strong> Co-design of FZ with Application Partners: 45 minutes&lt;/li>
