@@ -6,6 +6,9 @@ description: >
 ---
 
 Thank you for considering attending the FZ Kickoff Meeting!
+
+All slides for talks in the meeting can be found in this [shared folder](https://drive.google.com/drive/folders/1RyUrq8XNB2ZcXgecr63kk5hzK76WU7vp?usp=drive_link).
+
 Here is the schedule:
 
 + **8:30 AM** Welcome/intro/presentation of the schedule: 15 minutes
