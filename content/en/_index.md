@@ -1201,7 +1201,7 @@ For announcement of latest features etc.
          clip-path="url(#clipPath852)"
          id="g848"><text
            id="text856"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-variant:normal;cursor:pointer;text-decoration:underline;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            transform="matrix(1,0,0,-1,292.85,385.82)"><tspan
              id="tspan854"
              y="0"
@@ -1409,6 +1409,17 @@ For announcement of latest features etc.
   clickableElement.addEventListener("click", function() {
     // Redirect to the desired URL
     window.location.href = "https://github.com/YuxiaoLi1234/Compressor_vis";
+  });
+</script>
+
+<script>
+  // Get a reference to the clickable SVG element
+  var clickableElement = document.getElementById("text856");
+  
+  // Add a click event listener to the element
+  clickableElement.addEventListener("click", function() {
+    // Redirect to the desired URL
+    window.location.href = "https://github.com/szcompressor/qcat";
   });
 </script>
 
