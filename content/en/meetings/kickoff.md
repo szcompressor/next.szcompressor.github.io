@@ -21,7 +21,7 @@ Here is the schedule:
 + **10:30 AM** Compression module library (modules for compression pipeline composition): 75 minutes
     + Kai: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [[slides](https://drive.google.com/file/d/1PKaEhCiUXGDOwQ1qEeNmzaUaya0b3ZQz/view?usp=drive_link)]
     + Presentation from Martin (10 minutes) [[slides](https://docs.google.com/presentation/d/1DX7_kOY5Co19pt54IfCmi5HUwJnrB-kp/edit?usp=drive_link)]
-    + Presentation from Jon C. (10 minutes) [[slides]()]
+    + Presentation from Jon C. (10 minutes) [[slides](https://docs.google.com/presentation/d/1JwTaDt-K9MEl-FSGR10dtBcg7Ow-NAe4/edit?usp=drive_link)]
     + Presentation from Xin (10 minutes) [[slides](https://docs.google.com/presentation/d/1EjJ93gmaWGBWE52lMWjYLFOIKeQ9nnWU/edit?usp=drive_link)]
 + **11:45 AM** Open discussion: 15 minutes
 + **12:00 PM** Working Lunch: how to maximize adoption?: 60 minutes
@@ -30,7 +30,7 @@ Here is the schedule:
     + Xiaodong: 10 minutes on Z-checker GPU quality assessment
     + Lin: 10 minutes: How to use topology to evaluate compression output.
     + Robert and Sheng: 10 minutes on optimization
-    + Dingwen student (Daoce): 10 minutes on quality assessment (cosmology application, AMR data) [[slides](https://docs.google.com/presentation/d/1cfT4m6Pfzw9q57aPJ11krr-1dSlNoXQL/edit?usp=drive_link)]
+    + Dingwen student (Daoce): 10 minutes on quality assessment (cosmology application, AMR data) [[slides](https://docs.google.com/presentation/d/1galS1MMqiJHjjIaUtmvc5GwhB90yx8cg/edit?usp=drive_link&ouid=100646677683053029918&rtpof=true&sd=true)]
     + Hanqi student (Congrong): 10 minutes on quality assessment (topology) [[slides](https://docs.google.com/presentation/d/1pGtiXVAqvsH6AA3HkqlZ9f8uO2lttsiK/edit?usp=drive_link&ouid=100646677683053029918&rtpof=true&sd=true)]
 + **02:15 PM** Co-design of FZ with Application Partners: 45 minutes
 + **03:00 PM** Adoption: Encouraging and Tracking, Measure of success: 30 minutes
