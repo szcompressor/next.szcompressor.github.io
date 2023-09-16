@@ -15,7 +15,7 @@ Here is the schedule:
 + **8:45 AM** Review of the project objectives and deliverables: 15 minutes [[slides]](https://docs.google.com/presentation/d/1DUfy1A_IBmHLpFw5adPDEq22BywmWpJk/edit?]usp=drive_link&ouid=100646677683053029918&rtpof=true&sd=true)
     + Description of the general modular design (modules for pipeline generation, modules for quality assessment, modules for optimization)
 + **9:00 AM** Programming Interface and Compressor Generators: 75 minutes
-    + Robert: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [[slides]()]
+    + Robert: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [[slides](https://docs.google.com/presentation/d/1bIHpY_JXB8ZK1N_fsj6wIwqcqEw3mMjQ/edit?usp=drive_link)]
     + Dingwen: 10 minutes about some specifics of GPUs [[slides](https://docs.google.com/presentation/d/1nsvHl5yTYf15ptZCwdd9W2cJu9FccNjF/edit?usp=drive_link&ouid=100646677683053029918&rtpof=true&sd=true)]
 + **10:15 AM** Break: 15 minutes
 + **10:30 AM** Compression module library (modules for compression pipeline composition): 75 minutes
@@ -29,7 +29,7 @@ Here is the schedule:
     + Hanqi: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [[slides](https://docs.google.com/presentation/d/1QH2xxFheEUpEs-yHhiNYuZWDOPGt__T9WUTy2bseN1w/edit?usp=drive_link)]
     + Xiaodong: 10 minutes on Z-checker GPU quality assessment
     + Lin: 10 minutes: How to use topology to evaluate compression output.
-    + Robert and Sheng: 10 minutes on optimization
+    + Robert and Sheng: 10 minutes on optimization [[slides](https://docs.google.com/presentation/d/1fPv5yBI1TrOPMX4Bl4kHNm9emIG6QJEi/edit?usp=drive_link)]
     + Dingwen student (Daoce): 10 minutes on quality assessment (cosmology application, AMR data) [[slides](https://docs.google.com/presentation/d/1galS1MMqiJHjjIaUtmvc5GwhB90yx8cg/edit?usp=drive_link&ouid=100646677683053029918&rtpof=true&sd=true)]
     + Hanqi student (Congrong): 10 minutes on quality assessment (topology) [[slides](https://docs.google.com/presentation/d/1pGtiXVAqvsH6AA3HkqlZ9f8uO2lttsiK/edit?usp=drive_link&ouid=100646677683053029918&rtpof=true&sd=true)]
 + **02:15 PM** Co-design of FZ with Application Partners: 45 minutes
