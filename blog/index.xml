@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 &lt;/li>
 &lt;li>&lt;strong>9:00 AM&lt;/strong> Programming Interface and Compressor Generators: 75 minutes
 &lt;ul>
-&lt;li>Robert: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [&lt;a href="">slides&lt;/a>]&lt;/li>
+&lt;li>Robert: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [&lt;a href="https://docs.google.com/presentation/d/1bIHpY_JXB8ZK1N_fsj6wIwqcqEw3mMjQ/edit?usp=drive_link">slides&lt;/a>]&lt;/li>
 &lt;li>Dingwen: 10 minutes about some specifics of GPUs [&lt;a href="https://docs.google.com/presentation/d/1nsvHl5yTYf15ptZCwdd9W2cJu9FccNjF/edit?usp=drive_link&amp;amp;ouid=100646677683053029918&amp;amp;rtpof=true&amp;amp;sd=true">slides&lt;/a>]&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 &lt;li>Hanqi: 10 minutes to introduce the topic, discuss gaps, and development plan, and present progress [&lt;a href="https://docs.google.com/presentation/d/1QH2xxFheEUpEs-yHhiNYuZWDOPGt__T9WUTy2bseN1w/edit?usp=drive_link">slides&lt;/a>]&lt;/li>
 &lt;li>Xiaodong: 10 minutes on Z-checker GPU quality assessment&lt;/li>
 &lt;li>Lin: 10 minutes: How to use topology to evaluate compression output.&lt;/li>
-&lt;li>Robert and Sheng: 10 minutes on optimization&lt;/li>
+&lt;li>Robert and Sheng: 10 minutes on optimization [&lt;a href="https://docs.google.com/presentation/d/1fPv5yBI1TrOPMX4Bl4kHNm9emIG6QJEi/edit?usp=drive_link">slides&lt;/a>]&lt;/li>
 &lt;li>Dingwen student (Daoce): 10 minutes on quality assessment (cosmology application, AMR data) [&lt;a href="https://docs.google.com/presentation/d/1galS1MMqiJHjjIaUtmvc5GwhB90yx8cg/edit?usp=drive_link&amp;amp;ouid=100646677683053029918&amp;amp;rtpof=true&amp;amp;sd=true">slides&lt;/a>]&lt;/li>
 &lt;li>Hanqi student (Congrong): 10 minutes on quality assessment (topology) [&lt;a href="https://docs.google.com/presentation/d/1pGtiXVAqvsH6AA3HkqlZ9f8uO2lttsiK/edit?usp=drive_link&amp;amp;ouid=100646677683053029918&amp;amp;rtpof=true&amp;amp;sd=true">slides&lt;/a>]&lt;/li>
 &lt;/ul>
