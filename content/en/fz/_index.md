@@ -3,7 +3,7 @@ title: Goldydocs
 ---
 
 
-{{< blocks/cover title="FZ Compressor" image_anchor="top" height="full" >}}
+{{< blocks/cover title="FZ Custom Compressor Framework" image_anchor="top" height="full" >}}
 
 <img src="../UsDeptOfEnergy.png" alt="US Dept of Energy,Office of Science" width="300" height="100" />
 

@@ -4,9 +4,9 @@ linkTitle: Team
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="SZ4 Development Team" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="FZ Development Team" image_anchor="bottom" height="auto" %}}
 
-Meet the team that leads SZ4 Development
+Meet the team that leads FZ Development
 {.mt-5}
 
 {{% /blocks/cover %}}

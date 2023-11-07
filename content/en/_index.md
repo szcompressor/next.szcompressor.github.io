@@ -1433,6 +1433,7 @@ For announcement of latest features etc.
 <img style="border-radius: 50%;margin:2%" src="./cu.svg.png" alt="Clemson University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./iu.jpeg" alt="Indiana University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./uk.png" alt="University of Kentucky" width="200" height="200">
+<!--- add florida state university-->
 <img style="border-radius: 50%;margin:2%" src="./uab.png" alt="University of Alabama at Birmingham" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./ucali.png" alt="University of California, Riverside" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./uchicago.png" alt="University of Chicago" width="200" height="200">
