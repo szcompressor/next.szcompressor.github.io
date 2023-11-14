@@ -5,8 +5,6 @@ title: Goldydocs
 
 {{< blocks/cover title="FZ Custom Compressor Framework" image_anchor="top" height="full" >}}
 
-<img src="../UsDeptOfEnergy.png" alt="US Dept of Energy,Office of Science" width="300" height="100" />
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" alt="NSF_Logo" width="100" height="100" />
 
 
