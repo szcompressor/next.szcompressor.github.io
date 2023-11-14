@@ -93,12 +93,12 @@ We work together with researcher all over the world to build the most advanced l
 {{% /blocks/section %}}
 <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));gap: 10px;max-width: 100%;">
   <div style="display:flex;flex-direction:column;margin:5px;">
-    <img src="./Peter.png" alt="Peter Lindstrom" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <img src="./Peter.jpg" alt="Peter Lindstrom" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Peter Lindstrom (LLNL)</h5>
   </div>
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Xin.jpg" alt="Xin Liang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
-    <h5 style="width:150px;align-self:center">Xin Liang (University of Kentucky)</h5>
+    <h5 style="width:150px;align-self:center">Xin Liang (U. Kentucky)</h5>
   </div>
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Sam.jpg" alt="Samuel Li" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
@@ -106,7 +106,7 @@ We work together with researcher all over the world to build the most advanced l
   </div>
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Martin.jpg" alt="Martin Burtscher" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
-    <h5 style="width:150px;align-self:center">Martin Burtscher (Texas State University)</h5>
+    <h5 style="width:150px;align-self:center">Martin Burtscher (Texas State U.)</h5>
   </div>
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Kaz.jpg" alt="Kazutomo Yoshii" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
@@ -114,7 +114,7 @@ We work together with researcher all over the world to build the most advanced l
   </div>
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Jon.jpg" alt="Jon Calhoun" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
-    <h5 style="width:150px;align-self:center">Jon Calhoun (Clemson University)</h5>
+    <h5 style="width:150px;align-self:center">Jon Calhoun (Clemson U.)</h5>
   </div>
 </div>
 
