@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "SZ4"
+title = "FZ"
 
 # Language settings
 contentDir = "content/en"
@@ -65,7 +65,7 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-# title = "SZ4 Lossy Compressor"
+# title = "FZ Lossy Compressor"
 # description = ""
 
 [markup]

@@ -4,23 +4,23 @@ linkTitle: Team
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="SZ4 Development Team" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="FZ Development Team" image_anchor="bottom" height="auto" %}}
 
-Meet the team that leads SZ4 Development
+Meet the team that leads FZ Development
 {.mt-5}
 
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
 
-SZ4 is developed by researchers from the University of Chicago, Indiana University, University of Alabama, and Ohio State University.
+FZ is developed by researchers from the University of Chicago, Indiana University, Florida State University, and Ohio State University.
 We work together with researcher all over the world to build the most advanced lossy compression library.
 
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
 
-# Principle Investigators
+# Principal Investigators
 {.text-center}
 
 {{% /blocks/section %}}
@@ -86,6 +86,40 @@ We work together with researcher all over the world to build the most advanced l
 
 <br />
 {{% blocks/section color="primary" %}}
+
+# Collaborators
+{.text-center}
+
+{{% /blocks/section %}}
+<div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));gap: 10px;max-width: 100%;">
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Peter.jpg" alt="Peter Lindstrom" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Peter Lindstrom (LLNL)</h5>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Xin.jpg" alt="Xin Liang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Xin Liang (U. Kentucky)</h5>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Sam.jpg" alt="Samuel Li" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Samuel Li (NCAR)</h5>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Martin.jpg" alt="Martin Burtscher" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Martin Burtscher (Texas State U.)</h5>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Kaz.jpg" alt="Kazutomo Yoshii" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Kazutomo Yoshii (ANL)</h5>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Jon.jpg" alt="Jon Calhoun" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Jon Calhoun (Clemson U.)</h5>
+  </div>
+</div>
+
+<br />
+{{% blocks/section %}}
 
 # Graduate Students
 {.text-center}

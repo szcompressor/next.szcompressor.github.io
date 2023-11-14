@@ -3,9 +3,9 @@ title: Goldydocs
 ---
 
 
-{{< blocks/cover title="SZ4 Lossy Compression Framework" image_anchor="top" height="full" >}}
+{{< blocks/cover title="FZ Lossy Compression Framework" image_anchor="top" height="full" >}}
 
-<img src="./UsDeptOfEnergy.png" alt="US Dept of Energy,Office of Science" width="300" height="100" />
+<!--<img src="./UsDeptOfEnergy.png" alt="US Dept of Energy,Office of Science" width="300" height="100" /> -->
 
 <br />
 
@@ -15,7 +15,7 @@ title: Goldydocs
 <img src="https://user-images.githubusercontent.com/5705572/138370955-856c4d86-65f1-428e-96ea-bfdd2396b397.jpeg" alt="RnD100" width="100" height="100" />
 
 
-<p class="lead mt-5">SZ is a modular, parametrizable lossy compressor framework designed for scientific data, including both floating point numbers and integers. It is applicable in fields such as simulations, AI, and instrumentation. Not only is SZ a production-quality software, but it also serves as a research platform for lossy compression. The framework is both open and transparent. It's "open" in that all interested researchers and students can study or contribute to it, and "transparent" in the sense that all performance improvements are detailed in publications.</p>
+<p class="lead mt-5">FZ is a modular, parametrizable lossy compressor framework designed for scientific data, including both floating point numbers and integers. It is applicable in fields such as simulations, AI, and instrumentation. Not only is FZ a production-quality software, but it also serves as a research platform for lossy compression. The framework is both open and transparent. It's "open" in that all interested researchers and students can study or contribute to it, and "transparent" in the sense that all performance improvements are detailed in publications.</p>
 
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
@@ -1435,6 +1435,7 @@ For announcement of latest features etc.
 <img style="border-radius: 50%;margin:2%" src="./cu.svg.png" alt="Clemson University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./iu.jpeg" alt="Indiana University" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./uk.png" alt="University of Kentucky" width="200" height="200">
+<!--- add florida state university-->
 <img style="border-radius: 50%;margin:2%" src="./uab.png" alt="University of Alabama at Birmingham" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./ucali.png" alt="University of California, Riverside" width="200" height="200">
 <img style="border-radius: 50%;margin:2%" src="./uchicago.png" alt="University of Chicago" width="200" height="200">
