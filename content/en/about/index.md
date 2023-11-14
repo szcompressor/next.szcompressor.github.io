@@ -13,7 +13,7 @@ Meet the team that leads FZ Development
 
 {{% blocks/lead %}}
 
-FZ is developed by researchers from the University of Chicago, Indiana University, University of Alabama, and Ohio State University.
+FZ is developed by researchers from the University of Chicago, Indiana University, Florida State University, and Ohio State University.
 We work together with researcher all over the world to build the most advanced lossy compression library.
 
 {{% /blocks/lead %}}
