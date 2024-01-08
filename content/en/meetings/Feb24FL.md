@@ -15,13 +15,16 @@ Dates, address, contact:
 + Address: The John and Mable Ringling Museum of Art, 5401 Bay Shore Rd, Sarasota, FL 34243
 + Meeting room: Chao Lecture Hall
 + Contact: Dr. Kai Zhao (kai.zhao@fsu.edu), Dr. Franck Cappello (cappello@mcs.anl.gov)
++ **Important**: Please fill out this form (https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform) no matter you will attend in person or online
 
 Schedule:
 
 + Day before (Feb. 13)
   + 6:00 PM Reception (at the hotel: we will communicate the precise location later)
 + Day 1 (Feb 14)
-  + 9:00 AM A general introduction: Varun Chandola (NSF Program Director, CISE/OAC), someone from FSU leadership, workshop participants with their expertise.
+  + 9:00 AM welcome talk by Dr. Stacey Patterson (Vice President for Research, Florida State University)
+  + 9:10 AM welcome talk by Dr. Varun Chandola (NSF Program Director, CISE/OAC)
+  + 9:20 AM A general introduction: workshop participants with their expertise.
   + 9:40 AM Training on existing compressors (SZ, LibPressio with ZFP, etc.) (1h20)
     + Overview (40 min)
     + Hands-on (40 min)
