@@ -6,13 +6,14 @@
 &lt;li>Address: The John and Mable Ringling Museum of Art, 5401 Bay Shore Rd, Sarasota, FL 34243&lt;/li>
 &lt;li>Meeting room: Chao Lecture Hall&lt;/li>
 &lt;li>Contact: Dr. Kai Zhao (&lt;a href="mailto:kai.zhao@fsu.edu">kai.zhao@fsu.edu&lt;/a>), Dr. Franck Cappello (&lt;a href="mailto:cappello@mcs.anl.gov">cappello@mcs.anl.gov&lt;/a>)&lt;/li>
-&lt;li>&lt;strong>Important&lt;/strong>: Please fill out this form (&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform">https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform&lt;/a>) no matter you will attend in person or online&lt;/li>
+&lt;li>Please fill out &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform">this form&lt;/a> no matter you will attend in person or online&lt;/li>
+&lt;li>Meeting docs: All slides can be found in this &lt;a href="https://drive.google.com/drive/folders/1zKNJn9_9QLGb5Ecm-Wm5Yc5pgfOdFMYK?usp=sharing">shared folder&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>Schedule:&lt;/p>
 &lt;ul>
 &lt;li>Day before (Feb. 13)
 &lt;ul>
-&lt;li>6:00 PM Reception (at the hotel: we will communicate the precise location later)&lt;/li>
+&lt;li>6:00 PM Reception (The Ringling Grillroom, Address: McKay Visitor&amp;rsquo;s Pavilion, 5401 Bay Shore Rd, Sarasota, FL 34243)&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Day 1 (Feb 14)
@@ -20,26 +21,22 @@
 &lt;li>9:00 AM welcome talk by Dr. Stacey Patterson (Vice President for Research, Florida State University)&lt;/li>
 &lt;li>9:10 AM welcome talk by Dr. Varun Chandola (NSF Program Director, CISE/OAC)&lt;/li>
 &lt;li>9:20 AM A general introduction: workshop participants with their expertise.&lt;/li>
-&lt;li>9:40 AM Training on existing compressors (SZ, LibPressio with ZFP, etc.) (1h20)
+&lt;li>9:40 AM Training on existing compressors (SZ, ZFP, LC, SPERR, LibPressio, etc.) (1h)
 &lt;ul>
 &lt;li>Overview (40 min)&lt;/li>
-&lt;li>Hands-on (40 min)&lt;/li>
+&lt;li>Hands-on (20 min)&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>10:40 Break (20 min)&lt;/li>
 &lt;li>11:00 AM A general introduction to the FZ project and the 3 different thrusts of the FZ project (programming interface and specific compressor generation, building of the compression module library, visualization, quality assessment, and optimization) (1h)&lt;/li>
 &lt;li>12:00 PM Lunch&lt;/li>
 &lt;li>1:00 PM A presentation of the FZ project progress so far and the next milestones (1h)&lt;/li>
-&lt;li>2:00 PM A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h30)&lt;/li>
-&lt;li>3:30 PM Break&lt;/li>
-&lt;li>4:00 PM (cont.) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h30)&lt;/li>
-&lt;li>5:30 PM end of day one session&lt;/li>
-&lt;li>7:00 PM Dinner&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Day 2 (Feb 15)
+&lt;li>2:00 PM A discussion about FZ module design with other compressors (1h)&lt;/li>
+&lt;li>3:00 PM Break (20 min)&lt;/li>
+&lt;li>3:20 PM Application session, part 1 (5 application domains) (1h40min)
 &lt;ul>
-&lt;li>9:00 AM one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (45min)
-&lt;ul>
+&lt;li>A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)&lt;/li>
+&lt;li>one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)&lt;/li>
 &lt;li>5 groups (Franck will move from group to group):
 &lt;ul>
 &lt;li>Group application 1 lead: Robert&lt;/li>
@@ -51,7 +48,16 @@
 &lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>9:45 AM one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (45min)
+&lt;li>5:00 PM End of day&lt;/li>
+&lt;li>6:00 PM Dinner&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Day 2 (Feb 15)
+&lt;ul>
+&lt;li>9:00 AM Application session, part 2 (5 application domains) (1h40min)
+&lt;ul>
+&lt;li>A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)&lt;/li>
+&lt;li>one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
 &lt;ul>
 &lt;li>5 groups (Franck will move from group to group):
 &lt;ul>
@@ -64,16 +70,18 @@
 &lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>10:30 AM Break&lt;/li>
-&lt;li>11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h30)&lt;/li>
-&lt;li>12:30 PM Lunch&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>10:40 AM Break (20 min)&lt;/li>
+&lt;li>11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h)&lt;/li>
+&lt;li>12:00 PM Lunch&lt;/li>
 &lt;li>1:00 PM Preparation of the slides summarizing discussion/test results for every application
 &lt;ul>
 &lt;li>In parallel Robert, Dingwen, Sheng, Kai, Hanqi (2 application domains each).&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>1:30 PM Presentation of the discussion/test results for every application (1h30)&lt;/li>
-&lt;li>3:00 PM Break&lt;/li>
+&lt;li>3:00 PM Break (30 min)&lt;/li>
 &lt;li>3:30 PM Discussion/Reconciliation of the break-out session results (1h30)&lt;/li>
 &lt;li>5:00 PM Conclusion/adjourn&lt;/li>
 &lt;/ul>
