@@ -13,7 +13,8 @@ Thank you for considering attending the FZ workshop at Sarasota!
 Dates, address, contact:
 + Date: **Feb 14-15, 9:00 AM to 5:00 PM**
 + Address: The John and Mable Ringling Museum of Art, 5401 Bay Shore Rd, Sarasota, FL 34243
-+ Meeting room: Chao Lecture Hall
++ Meeting room: Chao Lecture Hall.
++ **Important**: Do **NOT** use the main museum entrance. Please refer to [this map](../Feb24FLMap.pdf) for parking and entrance. 
 + Contact: Dr. Kai Zhao (kai.zhao@fsu.edu), Dr. Franck Cappello (cappello@mcs.anl.gov)
 + Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform) no matter you will attend in person or online
 + Meeting docs: All slides can be found in this [shared folder](https://drive.google.com/drive/folders/1zKNJn9_9QLGb5Ecm-Wm5Yc5pgfOdFMYK?usp=sharing)
