@@ -26,7 +26,8 @@ Schedule:
 + Day 1 (Feb 14)
   + 8:30 AM Door opens for Chao lecture hall
   + 8:45 AM Please **arrive at the Chao lecture hall by 8:45 AM**.
-  + 9:00 AM Welcome talk by Dr. Stacey Patterson (Vice President for Research, Florida State University)
+  + 9:00 AM Workshop opening by Dr. Franck Cappello
+  + 9:05 AM Welcome talk by Dr. Stacey Patterson (Vice President for Research, Florida State University)
   + 9:10 AM Welcome talk by Dr. Varun Chandola (NSF Program Director, CISE/OAC)
   + 9:20 AM A general introduction: workshop participants with their expertise.
   + 9:40 AM Training on existing compressors (SZ, ZFP, LC, SPERR, LibPressio, etc.) (1h)
