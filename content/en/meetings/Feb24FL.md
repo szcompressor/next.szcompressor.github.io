@@ -22,7 +22,7 @@ Dates, address, contact:
 Schedule:
 
 + Day before (Feb. 13)
-  + 6:00 PM Reception (The Ringling Grillroom, Address: McKay Visitor's Pavilion, 5401 Bay Shore Rd, Sarasota, FL 34243)
+  + 6:00 PM Reception (Rico's Pizzeria & Pasta House, Address: 5131 N Tamiami Trail, Sarasota, FL 34234)
 + Day 1 (Feb 14)
   + 8:30 AM Door opens for Chao lecture hall
   + 8:45 AM Please **arrive at the Chao lecture hall by 8:45 AM**.
