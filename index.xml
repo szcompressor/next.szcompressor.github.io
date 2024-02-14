@@ -40,15 +40,14 @@
 &lt;li>3:00 PM Break (20 min)&lt;/li>
 &lt;li>3:20 PM Application session, part 1 (5 application domains) (1h40min)
 &lt;ul>
-&lt;li>A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)&lt;/li>
+&lt;li>(15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)&lt;/li>
 &lt;li>one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)&lt;/li>
-&lt;li>5 groups (Franck will move from group to group):
+&lt;li>4 groups (Franck &amp;amp; Kai will move from group to group):
 &lt;ul>
-&lt;li>Group application 1 lead: Robert&lt;/li>
-&lt;li>Group application 2 lead: Dingwen&lt;/li>
-&lt;li>Group application 3 lead: Sheng&lt;/li>
-&lt;li>Group application 4 lead: Kai&lt;/li>
-&lt;li>Group application 5 lead: Hanqi&lt;/li>
+&lt;li>Group application 1: Climate, lead: Robert + compressor developers&lt;/li>
+&lt;li>Group application 2: Seismology, lead: Dingwen + compressor developers&lt;/li>
+&lt;li>Group application 3: Quantum circuit, lead: Sheng + compressor developers&lt;/li>
+&lt;li>Group application 4: Fusion, lead: Hanqi + compressor developers&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -61,16 +60,15 @@
 &lt;ul>
 &lt;li>9:00 AM Application session, part 2 (5 application domains) (1h40min)
 &lt;ul>
-&lt;li>A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)&lt;/li>
+&lt;li>(15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)&lt;/li>
 &lt;li>one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
 &lt;ul>
-&lt;li>5 groups (Franck will move from group to group):
+&lt;li>4 groups (Franck will move from group to group):
 &lt;ul>
-&lt;li>Group application 6 lead: Robert&lt;/li>
-&lt;li>Group application 7 lead: Dingwen&lt;/li>
-&lt;li>Group application 8 lead: Sheng&lt;/li>
-&lt;li>Group application 9 lead: Kai&lt;/li>
-&lt;li>Group application 10 lead: Hanqi&lt;/li>
+&lt;li>Group application 6: Cosmology, lead: Dingwen + compressor developers&lt;/li>
+&lt;li>Group application 7: Light sources, lead: Robert + compressor developers&lt;/li>
+&lt;li>Group application 8: Apps, lead: Sheng + compressor developers&lt;/li>
+&lt;li>Group application 9: Molecular Dynamics, lead: Kai, Hanqi + compressor developers&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
