@@ -41,7 +41,7 @@ Schedule:
   + 1:30 PM A presentation of the FZ project progress so far and the next milestones (1h)
   + 2:30 PM A discussion about FZ module design with other compressors (30min)
   + 3:00 PM Break (20 min)
-  + 3:20 PM Application session, part 1 (5 application domains) (1h40min)
+  + 3:45 PM Application session, part 1 (5 application domains) (1h40min)
     + (15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
     + one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
     + 4 groups (Franck & Kai will move from group to group):
