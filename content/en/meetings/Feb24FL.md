@@ -63,7 +63,7 @@ Schedule:
         + Group application 9: System logs, lead: Sheng + compressor developers
   + 10:40 AM Break (20 min)
   + 11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h)
-  + 12:00 PM Lunch
+  + 12:00 PM Lunch (Buy your lunch box from the cafe shop, located on the second floor of the admission building (No. 1 building on [the map](../Feb24FLMap.pdf)))
   + 1:00 PM Preparation of the slides summarizing discussion/test results for every application
     + In parallel Robert, Dingwen, Sheng, Kai, Hanqi (2 application domains each).
   + 1:30 PM Presentation of the discussion/test results for every application (1h30)
