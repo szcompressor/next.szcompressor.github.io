@@ -39,7 +39,7 @@ Schedule:
   + 11:00 AM A general introduction to the FZ project and the 3 different thrusts of the FZ project (programming interface and specific compressor generation, building of the compression module library, visualization, quality assessment, and optimization) (1h)
   + 12:00 PM Lunch (Buy your lunch box from the cafe shop, located on the second floor of the admission building (No. 1 building on [the map](../Feb24FLMap.pdf)))
   + 1:20 PM A presentation of the FZ project progress so far and the next milestones (1h)
-  + 2:20 PM A discussion about FZ module design with other compressors (1h)
+  + 2:20 PM A discussion about FZ module design with other compressors (40min)
   + 3:00 PM Break (20 min)
   + 3:20 PM Application session, part 1 (5 application domains) (1h40min)
     + (15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
