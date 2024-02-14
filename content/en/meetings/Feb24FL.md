@@ -37,7 +37,7 @@ Schedule:
     + Hands-on (20 min)
   + 10:40 Break (20 min)
   + 11:00 AM A general introduction to the FZ project and the 3 different thrusts of the FZ project (programming interface and specific compressor generation, building of the compression module library, visualization, quality assessment, and optimization) (1h)
-  + 12:00 PM Lunch
+  + 12:00 PM Lunch (Buy your lunch box from the cafe shop, located on the second floor of the admission building (No. 1 building on [the map](../Feb24FLMap.pdf)))
   + 1:00 PM A presentation of the FZ project progress so far and the next milestones (1h)
   + 2:00 PM A discussion about FZ module design with other compressors (1h)
   + 3:00 PM Break (20 min)
