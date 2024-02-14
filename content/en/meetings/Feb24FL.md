@@ -50,7 +50,7 @@ Schedule:
       + Group application 3: Quantum circuit, lead: Sheng + compressor developers
       + Group application 4: Fusion, lead: Hanqi + compressor developers
   + 5:00 PM End of day
-  + 6:00 PM Dinner
+  
 + Day 2 (Feb 15)
   + 9:00 AM Application session, part 2 (5 application domains) (1h40min)
     + (15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
