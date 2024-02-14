@@ -41,26 +41,24 @@ Schedule:
   + 2:00 PM A discussion about FZ module design with other compressors (1h)
   + 3:00 PM Break (20 min)
   + 3:20 PM Application session, part 1 (5 application domains) (1h40min)
-    + A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
+    + (15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
     + one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
-    + 5 groups (Franck will move from group to group):
-      + Group application 1 lead: Robert
-      + Group application 2 lead: Dingwen
-      + Group application 3 lead: Sheng
-      + Group application 4 lead: Kai
-      + Group application 5 lead: Hanqi
+    + 4 groups (Franck & Kai will move from group to group):
+      + Group application 1: Climate, lead: Robert + compressor developers
+      + Group application 2: Seismology, lead: Dingwen + compressor developers
+      + Group application 3: Quantum circuit, lead: Sheng + compressor developers
+      + Group application 4: Fusion, lead: Hanqi + compressor developers
   + 5:00 PM End of day
   + 6:00 PM Dinner
 + Day 2 (Feb 15)
   + 9:00 AM Application session, part 2 (5 application domains) (1h40min)
-    + A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
+    + (15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
     + one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
-      + 5 groups (Franck will move from group to group):
-        + Group application 6 lead: Robert
-        + Group application 7 lead: Dingwen
-        + Group application 8 lead: Sheng
-        + Group application 9 lead: Kai
-        + Group application 10 lead: Hanqi
+      + 4 groups (Franck will move from group to group):
+        + Group application 6: Cosmology, lead: Dingwen + compressor developers
+        + Group application 7: Light sources, lead: Robert + compressor developers
+        + Group application 8: Apps, lead: Sheng + compressor developers
+        + Group application 9: Molecular Dynamics,  lead: Kai, Hanqi + compressor developers
   + 10:40 AM Break (20 min)
   + 11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h)
   + 12:00 PM Lunch
