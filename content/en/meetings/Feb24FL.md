@@ -55,10 +55,10 @@ Schedule:
     + (15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
     + one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
       + 4 groups (Franck will move from group to group):
-        + Group application 6: Cosmology, lead: Dingwen + compressor developers
-        + Group application 7: Light sources, lead: Robert + compressor developers
-        + Group application 8: Apps, lead: Sheng + compressor developers
-        + Group application 9: Molecular Dynamics,  lead: Kai, Hanqi + compressor developers
+        + Group application 5: Cosmology, lead: Dingwen + compressor developers
+        + Group application 6: Light sources, lead: Robert + compressor developers
+        + Group application 7: Apps, lead: Sheng + compressor developers
+        + Group application 8: Molecular Dynamics,  lead: Kai, Hanqi + compressor developers
   + 10:40 AM Break (20 min)
   + 11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h)
   + 12:00 PM Lunch
