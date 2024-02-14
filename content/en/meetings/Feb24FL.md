@@ -19,6 +19,7 @@ Dates, address, contact:
 + Meeting Zoom: One [Zoom link](https://fsu.zoom.us/j/97848288394?pwd=RmZodEdmL0NIOEJPVy9NZHJwLzRLdz09) for all the sessions
 + Meeting docs: All slides can be found in this [shared folder](https://drive.google.com/drive/folders/1zKNJn9_9QLGb5Ecm-Wm5Yc5pgfOdFMYK?usp=sharing)
 + Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform) no matter you will attend in person or online)
++ We use Eastern Time (ET) for this workshop.
 
 Schedule:
 
