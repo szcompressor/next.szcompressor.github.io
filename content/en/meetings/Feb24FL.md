@@ -44,7 +44,6 @@ Schedule:
   + 3:45 PM Application session, part 1 (1h40min)
     + (4 application domains, 15 min each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
   + 5:00 PM End of day
-  + 6:30 PM Dinner 
   
 + Day 2 (Feb 15)
   + 9:00 AM Application session, part 2  (1h40min)
