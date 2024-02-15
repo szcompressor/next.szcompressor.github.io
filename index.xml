@@ -58,15 +58,23 @@
 &lt;li>(5 application domains, 12 min each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)&lt;/li>
 &lt;li>one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
 &lt;ul>
+&lt;li>Group 1-4 (20 min)
+&lt;ul>
 &lt;li>Group application 1: Climate, lead: Robert + compressor developers&lt;/li>
 &lt;li>Group application 2: Seismology, lead: Dingwen + compressor developers&lt;/li>
 &lt;li>Group application 3: Quantum circuit, lead: Sheng + compressor developers&lt;/li>
 &lt;li>Group application 4: Fusion, lead: Hanqi + compressor developers&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Group 5-9 (20 min)
+&lt;ul>
 &lt;li>Group application 5: Cosmology, lead: Dingwen + compressor developers&lt;/li>
 &lt;li>Group application 6: Light sources, lead: Robert + compressor developers&lt;/li>
 &lt;li>Group application 7: Molecular Dynamics, lead: Kai + compressor developers&lt;/li>
 &lt;li>Group application 8: Combustion, lead: Hanqi + compressor developers&lt;/li>
 &lt;li>Group application 9: System logs, lead: Sheng + compressor developers&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>In parallel, Preparation of the slides summarizing discussion/test results for every application. Robert, Dingwen, Sheng, Kai, Hanqi (2 application domains each).&lt;/li>
 &lt;/ul>
 &lt;/li>
