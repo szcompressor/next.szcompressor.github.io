@@ -41,33 +41,30 @@ Schedule:
   + 1:30 PM A presentation of the FZ project progress so far and the next milestones (1h)
   + 2:30 PM A discussion about FZ module design with other compressors (30min)
   + 3:00 PM Break (20 min)
-  + 3:45 PM Application session, part 1 (5 application domains) (1h40min)
-    + (15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
+  + 3:45 PM Application session, part 1 (1h40min)
+    + (4 application domains, 15 min each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
+  + 5:00 PM End of day
+  + 6:30 PM Dinner 
+  
++ Day 2 (Feb 15)
+  + 9:00 AM Application session, part 2  (1h40min)
+    + (5 application domains, 12 min each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
     + one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
-    + 4 groups (Franck & Kai will move from group to group):
       + Group application 1: Climate, lead: Robert + compressor developers
       + Group application 2: Seismology, lead: Dingwen + compressor developers
       + Group application 3: Quantum circuit, lead: Sheng + compressor developers
       + Group application 4: Fusion, lead: Hanqi + compressor developers
-  + 5:00 PM End of day
-  
-+ Day 2 (Feb 15)
-  + 9:00 AM Application session, part 2 (5 application domains) (1h40min)
-    + (15 minutes each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
-    + one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
-      + 4 groups (Franck will move from group to group):
-        + Group application 5: Cosmology, lead: Dingwen + compressor developers
-        + Group application 6: Light sources, lead: Robert + compressor developers
-        + Group application 7: Molecular Dynamics,  lead: Kai + compressor developers
-        + Group application 8: Combustion,  lead: Hanqi + compressor developers
-        + Group application 9: System logs, lead: Sheng + compressor developers
+      + Group application 5: Cosmology, lead: Dingwen + compressor developers
+      + Group application 6: Light sources, lead: Robert + compressor developers
+      + Group application 7: Molecular Dynamics,  lead: Kai + compressor developers
+      + Group application 8: Combustion,  lead: Hanqi + compressor developers
+      + Group application 9: System logs, lead: Sheng + compressor developers
+      + In parallel, Preparation of the slides summarizing discussion/test results for every application. Robert, Dingwen, Sheng, Kai, Hanqi (2 application domains each).
   + 10:40 AM Break (20 min)
   + 11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h)
   + 12:00 PM Lunch (Buy your lunch box from the cafe shop, located on the second floor of the admission building (No. 1 building on [the map](../Feb24FLMap.pdf)))
-  + 1:00 PM Preparation of the slides summarizing discussion/test results for every application
-    + In parallel Robert, Dingwen, Sheng, Kai, Hanqi (2 application domains each).
-  + 1:30 PM Presentation of the discussion/test results for every application (1h30)
-  + 3:00 PM Break (30 min)
-  + 3:30 PM Discussion/Reconciliation of the break-out session results (1h30)
-  + 5:00 PM Conclusion/adjourn
+  + 1:00 PM Presentation of the discussion/test results for every application (1h30)
+  + 2:30 PM Discussion/Reconciliation of the break-out session results
+  + 2:55 PM End of the workshop, Conclusion/adjourn (5min)
+  + 3:00 PM FZ PI meeting (1h)
 
