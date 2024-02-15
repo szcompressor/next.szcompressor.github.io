@@ -50,15 +50,17 @@ Schedule:
   + 9:00 AM Application session, part 2  (1h40min)
     + (5 application domains, 12 min each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)
     + one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
-      + Group application 1: Climate, lead: Robert + compressor developers
-      + Group application 2: Seismology, lead: Dingwen + compressor developers
-      + Group application 3: Quantum circuit, lead: Sheng + compressor developers
-      + Group application 4: Fusion, lead: Hanqi + compressor developers
-      + Group application 5: Cosmology, lead: Dingwen + compressor developers
-      + Group application 6: Light sources, lead: Robert + compressor developers
-      + Group application 7: Molecular Dynamics,  lead: Kai + compressor developers
-      + Group application 8: Combustion,  lead: Hanqi + compressor developers
-      + Group application 9: System logs, lead: Sheng + compressor developers
+      + Group 1-4 (20 min)
+        + Group application 1: Climate, lead: Robert + compressor developers
+        + Group application 2: Seismology, lead: Dingwen + compressor developers
+        + Group application 3: Quantum circuit, lead: Sheng + compressor developers
+        + Group application 4: Fusion, lead: Hanqi + compressor developers
+      + Group 5-9 (20 min) 
+        + Group application 5: Cosmology, lead: Dingwen + compressor developers
+        + Group application 6: Light sources, lead: Robert + compressor developers
+        + Group application 7: Molecular Dynamics,  lead: Kai + compressor developers
+        + Group application 8: Combustion,  lead: Hanqi + compressor developers
+        + Group application 9: System logs, lead: Sheng + compressor developers
       + In parallel, Preparation of the slides summarizing discussion/test results for every application. Robert, Dingwen, Sheng, Kai, Hanqi (2 application domains each).
   + 10:40 AM Break (20 min)
   + 11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h)
