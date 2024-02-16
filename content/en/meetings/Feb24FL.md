@@ -15,11 +15,11 @@ Dates, address, contact:
 + Address: The John and Mable Ringling Museum of Art, 5401 Bay Shore Rd, Sarasota, FL 34243
 + Meeting room: Chao Lecture Hall.
 + **Important**: Do **NOT** use the main museum entrance. Please refer to [this map](../Feb24FLMap.pdf) for parking and entrance. 
-+ Meeting Zoom: One [Zoom link](https://fsu.zoom.us/j/97848288394?pwd=RmZodEdmL0NIOEJPVy9NZHJwLzRLdz09) for all the sessions
++ Meeting Zoom: One [Zoom link]() for all the sessions
 + Meeting docs: All slides can be found in this [shared folder](https://drive.google.com/drive/folders/1zKNJn9_9QLGb5Ecm-Wm5Yc5pgfOdFMYK?usp=sharing)
 + Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform) no matter you will attend in person or online)
 + We use Eastern Time (ET) for this workshop.
-+ Contact: Dr. Kai Zhao (kai.zhao@fsu.edu), Dr. Robert Underwood (runderwood@anl.gov), Dr. Sheng Di (sdi1@anl.gov), Dr. Dingwen Tao (ditao@iu.edu), Dr. Hanqi Guo (guo.2154@osu.edu), Dr. Franck Cappello (cappello@mcs.anl.gov)
++ Contact: Dr. Kai Zhao (kai.zhao@fsu.edu)
 
 Schedule:
 
@@ -66,6 +66,5 @@ Schedule:
   + 12:00 PM Lunch (Buy your lunch box from the cafe shop, located on the second floor of the admission building (No. 1 building on [the map](../Feb24FLMap.pdf)))
   + 1:00 PM Presentation of the discussion/test results for every application (1h30)
   + 2:30 PM Discussion/Reconciliation of the break-out session results
-  + 2:55 PM End of the workshop, Conclusion/adjourn (5min)
-  + 3:00 PM FZ PI meeting (1h)
+  + 3:00 PM End of the workshop, Conclusion/adjourn (5min)
 
