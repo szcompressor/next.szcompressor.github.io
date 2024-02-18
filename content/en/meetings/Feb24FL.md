@@ -66,5 +66,5 @@ Schedule:
   + 12:00 PM Lunch (Cost on your own)
   + 1:00 PM Presentation of the discussion/test results for every application (1h30)
   + 2:30 PM Discussion/Reconciliation of the break-out session results
-  + 3:00 PM End of the workshop, Conclusion/adjourn (5min)
+  + 5:00 PM End of the workshop
 
