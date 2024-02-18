@@ -24,7 +24,7 @@ Dates, address, contact:
 Schedule:
 
 + Day before (Feb. 13)
-  + 6:00 PM Reception (Rico's Pizzeria & Pasta House, Address: 5131 N Tamiami Trail, Sarasota, FL 34234)
+  + 5:00 PM Reception (Cost on your own, Rico's Pizzeria & Pasta House, Address: 5131 N Tamiami Trail, Sarasota, FL 34234)
 + Day 1 (Feb 14)
   + 8:30 AM Door opens for Chao lecture hall
   + 8:45 AM Please **arrive at the Chao lecture hall by 8:45 AM**.
@@ -37,7 +37,7 @@ Schedule:
     + Hands-on (20 min)
   + 10:40 Break (20 min)
   + 11:00 AM A general introduction to the FZ project and the 3 different thrusts of the FZ project (programming interface and specific compressor generation, building of the compression module library, visualization, quality assessment, and optimization) (1h)
-  + 12:00 PM Lunch (Buy your lunch box from the cafe shop, located on the second floor of the admission building (No. 1 building on [the map](../Feb24FLMap.pdf)))
+  + 12:00 PM Lunch (Cost on your own)
   + 1:30 PM A presentation of the FZ project progress so far and the next milestones (1h)
   + 2:30 PM A discussion about FZ module design with other compressors (30min)
   + 3:00 PM Break (20 min)
@@ -63,7 +63,7 @@ Schedule:
       + In parallel, Preparation of the slides summarizing discussion/test results for every application. Robert, Dingwen, Sheng, Kai, Hanqi (2 application domains each).
   + 10:40 AM Break (20 min)
   + 11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h)
-  + 12:00 PM Lunch (Buy your lunch box from the cafe shop, located on the second floor of the admission building (No. 1 building on [the map](../Feb24FLMap.pdf)))
+  + 12:00 PM Lunch (Cost on your own)
   + 1:00 PM Presentation of the discussion/test results for every application (1h30)
   + 2:30 PM Discussion/Reconciliation of the break-out session results
   + 3:00 PM End of the workshop, Conclusion/adjourn (5min)
