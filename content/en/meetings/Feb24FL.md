@@ -24,7 +24,7 @@ Dates, address, contact:
   out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform)
   no matter you will attend in person or online)
 + We use Eastern Time (ET) for this workshop.
-+ Contact: Dr. Kai Zhao (kai.zhao@fsu.edu)
++ Host: Dr. Kai Zhao (kai.zhao@fsu.edu)
 
 Schedule:
 
