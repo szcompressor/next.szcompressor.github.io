@@ -5,10 +5,14 @@
 &lt;li>Date: &lt;strong>Feb 14-15, 9:00 AM to 5:00 PM&lt;/strong>&lt;/li>
 &lt;li>Address: The John and Mable Ringling Museum of Art, 5401 Bay Shore Rd, Sarasota, FL 34243&lt;/li>
 &lt;li>Meeting room: Chao Lecture Hall.&lt;/li>
-&lt;li>&lt;strong>Important&lt;/strong>: Do &lt;strong>NOT&lt;/strong> use the main museum entrance. Please refer to &lt;a href="../Feb24FLMap.pdf">this map&lt;/a> for parking and entrance.&lt;/li>
+&lt;li>&lt;strong>Important&lt;/strong>: Do &lt;strong>NOT&lt;/strong> use the main museum entrance. Please refer to &lt;a href="../Feb24FLMap.pdf">this map&lt;/a> for parking and
+entrance.&lt;/li>
 &lt;li>Meeting Zoom: One &lt;a href="">Zoom link&lt;/a> for all the sessions&lt;/li>
-&lt;li>Meeting docs: All slides can be found in this &lt;a href="https://drive.google.com/drive/folders/1zKNJn9_9QLGb5Ecm-Wm5Yc5pgfOdFMYK?usp=sharing">shared folder&lt;/a>&lt;/li>
-&lt;li>Please fill out &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform">this form&lt;/a> no matter you will attend in person or online)&lt;/li>
+&lt;li>Meeting docs: All slides can be found in
+this &lt;a href="https://drive.google.com/drive/folders/1zKNJn9_9QLGb5Ecm-Wm5Yc5pgfOdFMYK?usp=sharing">shared folder&lt;/a>&lt;/li>
+&lt;li>Please fill
+out &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSe6KjCFu9bsyHC3VFM3DQWAk-S35yUFw4ks-MuMobzvbHpRxQ/viewform">this form&lt;/a>
+no matter you will attend in person or online)&lt;/li>
 &lt;li>We use Eastern Time (ET) for this workshop.&lt;/li>
 &lt;li>Contact: Dr. Kai Zhao (&lt;a href="mailto:kai.zhao@fsu.edu">kai.zhao@fsu.edu&lt;/a>)&lt;/li>
 &lt;/ul>
@@ -17,7 +21,8 @@
 &lt;li>
 &lt;p>Day before (Feb. 13)&lt;/p>
 &lt;ul>
-&lt;li>5:00 PM Reception (Cost on your own, Rico&amp;rsquo;s Pizzeria &amp;amp; Pasta House, Address: 5131 N Tamiami Trail, Sarasota, FL 34234)&lt;/li>
+&lt;li>5:00 PM Reception (Cost on your own, Rico&amp;rsquo;s Pizzeria &amp;amp; Pasta House, Address: 5131 N Tamiami Trail, Sarasota, FL
+34234)&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -36,14 +41,17 @@
 &lt;/ul>
 &lt;/li>
 &lt;li>10:40 Break (20 min)&lt;/li>
-&lt;li>11:00 AM A general introduction to the FZ project and the 3 different thrusts of the FZ project (programming interface and specific compressor generation, building of the compression module library, visualization, quality assessment, and optimization) (1h)&lt;/li>
+&lt;li>11:00 AM A general introduction to the FZ project and the 3 different thrusts of the FZ project (programming
+interface and specific compressor generation, building of the compression module library, visualization, quality
+assessment, and optimization) (1h)&lt;/li>
 &lt;li>12:00 PM Lunch (Cost on your own)&lt;/li>
 &lt;li>1:30 PM A presentation of the FZ project progress so far and the next milestones (1h)&lt;/li>
 &lt;li>2:30 PM A discussion about FZ module design with other compressors (30min)&lt;/li>
 &lt;li>3:00 PM Break (20 min)&lt;/li>
 &lt;li>3:45 PM Application session, part 1 (1h40min)
 &lt;ul>
-&lt;li>(4 application domains, 15 min each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)&lt;/li>
+&lt;li>(4 application domains, 15 min each) A presentation of the different application domain requirements and
+constraints concerning lossy compression by the application attendees (1h)&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>5:00 PM End of day&lt;/li>
@@ -54,8 +62,11 @@
 &lt;ul>
 &lt;li>9:00 AM Application session, part 2 (1h40min)
 &lt;ul>
-&lt;li>(5 application domains, 12 min each) A presentation of the different application domain requirements and constraints concerning lossy compression by the application attendees (1h)&lt;/li>
-&lt;li>one-to-one break-out sessions with the application developers and users to collect (i) use case requirements concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements, including APIs and I/O library integration, and shell command. (40min)
+&lt;li>(5 application domains, 12 min each) A presentation of the different application domain requirements and
+constraints concerning lossy compression by the application attendees (1h)&lt;/li>
+&lt;li>one-to-one break-out sessions with the application developers and users to collect (i) use case requirements
+concerning compression ratio, speed, and accuracy criteria, (ii) practical compression interface requirements,
+including APIs and I/O library integration, and shell command. (40min)
 &lt;ul>
 &lt;li>Group 1-4 (20 min)
 &lt;ul>
@@ -74,20 +85,25 @@
 &lt;li>Group application 9: System logs, lead: Sheng + compressor developers&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>In parallel, Preparation of the slides summarizing discussion/test results for every application. Robert, Dingwen, Sheng, Kai, Hanqi (2 application domains each).&lt;/li>
+&lt;li>In parallel, Preparation of the slides summarizing discussion/test results for every application. Robert,
+Dingwen, Sheng, Kai, Hanqi (2 application domains each).&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>10:40 AM Break (20 min)&lt;/li>
-&lt;li>11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h)&lt;/li>
+&lt;li>11:00 AM Hackathon sessions where multiple existing compression schemes will be tested for every application to
+identify relevant compression methods and gaps that could be addressed with lossy compressor customization (1h)&lt;/li>
 &lt;li>12:00 PM Lunch (Cost on your own)&lt;/li>
 &lt;li>1:00 PM Presentation of the discussion/test results for every application (1h30)&lt;/li>
 &lt;li>2:30 PM Discussion/Reconciliation of the break-out session results&lt;/li>
 &lt;li>5:00 PM End of the workshop&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Blog: Sheng Di's News</title><link>/next.szcompressor.github.io/blog/2023/11/25/sheng-dis-news/</link><pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2023/11/25/sheng-dis-news/</guid><description>
+&lt;/ul>
+&lt;p>Photos:&lt;/p>
+&lt;img src="../Feb24FL1.jpeg" alt="" width="1600">
+&lt;img src="../Feb24FL2.jpeg" alt="" width="1600"></description></item><item><title>Blog: Sheng Di's News</title><link>/next.szcompressor.github.io/blog/2023/11/25/sheng-dis-news/</link><pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2023/11/25/sheng-dis-news/</guid><description>
 &lt;pre>&lt;code>Jiajun Huang, Sheng Di, Xiaodong Yu, Zizhong Chen, Franck Cappello, Yanfei Guo, and Rajeev Thakur, &amp;quot;Accelerating Collective Communications with Lossy Compression on GPU&amp;quot;, in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023. (1st place of ACM SRC award -- Graduates)
 &lt;/code>&lt;/pre></description></item><item><title>Blog: Sheng Di's News</title><link>/next.szcompressor.github.io/blog/2023/11/25/sheng-dis-news/</link><pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2023/11/25/sheng-dis-news/</guid><description>
 &lt;pre>&lt;code>Daoce Wang, Jesus Pulido, Jiannan Tian, Sian Jin, Houjun Tang, Jean Sexton, Sheng Di, Kai Zhao, Bo Fang, Zarija Lukic, Franck Cappello, James Ahrens, Dingwen Tao, &amp;quot;AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications&amp;quot;, IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023.
