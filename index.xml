@@ -1,4 +1,86 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FZ – Goldydocs</title><link>/next.szcompressor.github.io/</link><description>Recent content in Goldydocs on FZ</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/next.szcompressor.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Meetings: FZ workshop</title><link>/next.szcompressor.github.io/meetings/feb24fl/</link><pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/meetings/feb24fl/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FZ – Goldydocs</title><link>/next.szcompressor.github.io/</link><description>Recent content in Goldydocs on FZ</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/next.szcompressor.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Meetings: FZ Workshop At OSU</title><link>/next.szcompressor.github.io/meetings/osu24/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/meetings/osu24/</guid><description>
+&lt;p>Thank you for attending the FZ workshop at Columbus!&lt;/p>
+&lt;h1 id="key-information-and-links">Key Information and Links:&lt;/h1>
+&lt;ul>
+&lt;li>We use Eastern Time (ET) for this workshop.&lt;/li>
+&lt;li>&lt;strong>Date&lt;/strong>: Sept. 17-18, (Day 1) 8:30 AM to 5:00 PM, (Day 2) 8:30-noon&lt;/li>
+&lt;li>&lt;strong>Address&lt;/strong>: Ohio State University Dept. of Computer Science&lt;/li>
+&lt;li>&lt;strong>Meeting room&lt;/strong>: Dreese Laboratory, Room 263&lt;/li>
+&lt;li>&lt;strong>Meeting Zoom&lt;/strong>: One &lt;a href="https://osu.zoom.us/j/96179446351?pwd=15zvSbB2QOlUMuddJj17HgdqfYhNuZ.1">Zoom link&lt;/a> for all the sessions&lt;/li>
+&lt;li>&lt;strong>Meeting docs&lt;/strong>: All slides can be found in this &lt;a href="https://drive.google.com/drive/folders/1X8GScASIoCFmxLp76z31RUvY5ggczQkE?usp=drive_link">shared folder&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Parking Address&lt;/strong>: Tuttle Garage, 18USD/day&lt;/li>
+&lt;li>&lt;strong>Host&lt;/strong>: &lt;a href="guo.2154@osu.edu">Dr. Hanqi Gou&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="schedule">Schedule&lt;/h1>
+&lt;h2 id="day-before-sept-16">Day Before (Sept. 16)&lt;/h2>
+&lt;ul>
+&lt;li>6:00 PM Dinner&lt;/li>
+&lt;/ul>
+&lt;h2 id="day-1-sept-17">Day 1 (Sept. 17)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>8:30 AM&lt;/strong> Welcome/intro/presentation of the schedule: 15 minutes&lt;/li>
+&lt;li>&lt;strong>8:45 AM&lt;/strong> State of the Project/Vision (Chair: Franck)&lt;/li>
+&lt;li>&lt;strong>9:00 AM&lt;/strong> Thrust I: Compression API and Generators (Chair: Robert) Progress on Compression API and Generators: 75 minutes
+&lt;ul>
+&lt;li>Robert Underwood: Compiler Abstractions&lt;/li>
+&lt;li>Shihui Song: CERESZ-II&lt;/li>
+&lt;li>Yafan Huang: cuSZp and Compression for Light Sources&lt;/li>
+&lt;li>Discussion: Compiler Abstractions for Heterogeneous&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>10:15 AM&lt;/strong> Break: 15 minutes&lt;/li>
+&lt;li>&lt;strong>10:30 AM&lt;/strong> Thrust II: Compression Module Library (Chair: Kai): 75 minutes
+&lt;ul>
+&lt;li>Kai Zhao: LCP and Gromacs progress&lt;/li>
+&lt;li>Zizhe Jian: CLI-SZ&lt;/li>
+&lt;li>Kai Zhao: MDZ-v2&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>11:45 AM&lt;/strong> Open discussion: 15 minutes&lt;/li>
+&lt;li>&lt;strong>12:00 PM&lt;/strong> Working Lunch: retrospective how are things going so far for adoption? What is working/not?: 60 minutes&lt;/li>
+&lt;li>&lt;strong>01:00 PM&lt;/strong> Thrust III.A: Visualization, quality assessment, and optimization: (Chair: Hanqi 75 minutes)
+&lt;ul>
+&lt;li>Hanqi Guo: Progress on FZ-Viz&lt;/li>
+&lt;li>Yuxiao Li: MSZ preserving toplogogical features with compression&lt;/li>
+&lt;li>Hrithik Devaiah Bollachettira Ajithkumar: Integration with Visualization Tools&lt;/li>
+&lt;li>Congrong Ren : Unstructured Mesh Compression&lt;/li>
+&lt;li>Yongfeng Qiu: lossy compression for parallel vis&lt;/li>
+&lt;li>Yang Zhang (UIUC): Auto-encoders for Temporal Data&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>02:15 PM&lt;/strong> Thrust III.B: Integrating Compression/Prediction into Applications (Chair: Sheng 75 minutes)
+&lt;ul>
+&lt;li>Jaijun Huang: Compression for MPI&lt;/li>
+&lt;li>Arham Khan: SECRE&lt;/li>
+&lt;li>Hasanur Md Rahman: FRXZ&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>03:30 PM&lt;/strong> Break: 15 minutes&lt;/li>
+&lt;li>&lt;strong>03:45 PM&lt;/strong> GPU Compression Modules (Chair: Jiannan Tian): 75 Minutes
+&lt;ul>
+&lt;li>Jiannan Tian: Engineering for GPU Compressors, Multi-Stream, Lossless on GPU&lt;/li>
+&lt;li>Boyuan Zhang: FZ-GPU, AI Compression on the GPU&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>04:30 PM&lt;/strong> Open discussion: 30 minutes (website)&lt;/li>
+&lt;li>&lt;strong>05:00 PM&lt;/strong> Closing: 10 minutes&lt;/li>
+&lt;/ul>
+&lt;h2 id="day-2-sept-18">Day 2 (Sept. 18)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Parallel track 1&lt;/strong> (Chairs: Sheng, Kai)
+&lt;ul>
+&lt;li>&lt;strong>08:30 AM&lt;/strong> Modularization of CLIZ and MGARD decorrelation? 1:30h&lt;/li>
+&lt;li>&lt;strong>10:00 AM&lt;/strong> Overall integration? 1h&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Parallel track 2&lt;/strong> (Chairs: Robert, Hanqi)
+&lt;ul>
+&lt;li>&lt;strong>08:30 AM&lt;/strong> Tutorial for new students (dry run of new material for SC24 tutorial?)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>11:00&lt;/strong> Scaling Adoption: Publicity, Website, etc. Getting the Project Website Ready for SC.&lt;/li>
+&lt;li>&lt;strong>12:00&lt;/strong> Closing/Lunch (food provided)&lt;/li>
+&lt;/ul></description></item><item><title>Meetings: FZ workshop</title><link>/next.szcompressor.github.io/meetings/feb24fl/</link><pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/meetings/feb24fl/</guid><description>
 &lt;p>Thank you for considering attending the FZ workshop at Sarasota!&lt;/p>
 &lt;p>Dates, address, contact:&lt;/p>
 &lt;ul>
@@ -217,5 +299,4 @@ You can find the code for &lt;a href="https://github.com/szcompressor/SZ3">SZ3 o
 &lt;p>Large-scale numerical simulations and experiments are generating very large datasets that are difficult to analyze, store and transfer. This problem will be exacerbated for future generations of systems. Data reduction becomes a necessity in order to reduce as much as possible the time lost in data transfer and storage. Lossless and lossy data compression are attractive and efficient techniques to significantly reduce data sets while being rather agnostic to the application. This tutorial will review the state of the art in lossless and lossy compression of scientific data sets, discuss in detail two lossy compressors (SZ and ZFP) and introduce compression error assessment metrics. The tutorial will also cover the characterization of data sets with respect to compression and introduce Z-checker, a tool to assess compression error.&lt;/p>
 &lt;p>More specifically the tutorial will introduce motivating examples as well as basic compression techniques, cover the role of Shannon Entropy, the different types of advanced data transformation, prediction and quantization techniques, as well as some of the more popular coding techniques. The tutorial will use examples of real world compressors (GZIP, JPEG, FPZIP, SZ, ZFP, etc.) and data sets coming from simulations and instruments to illustrate the different compression techniques and their performance. This 1/2 day tutorial is improved from the evaluations of the two highly attended and rated tutorials given on this topic at ISC17 and SC17.&lt;/p></description></item><item><title>Blog: WaveSZ paper accepted</title><link>/next.szcompressor.github.io/blog/2019/12/20/wavesz-paper-accepted/</link><pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2019/12/20/wavesz-paper-accepted/</guid><description>
 &lt;p>Link to the &lt;a href="https://dl.acm.org/doi/10.1145/3332466.3374525">paper&lt;/a>&lt;/p></description></item><item><title>Blog: Huffman encoding on GPU paper accepted</title><link>/next.szcompressor.github.io/blog/2019/12/10/huffman-encoding-on-gpu-paper-accepted/</link><pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2019/12/10/huffman-encoding-on-gpu-paper-accepted/</guid><description>
-&lt;p>Link to the &lt;a href="https://arxiv.org/abs/2010.10039">paper&lt;/a>&lt;/p></description></item><item><title>Blog: cuSZ selected as 3rd Place Winner of ACM Student Research Competition</title><link>/next.szcompressor.github.io/blog/2019/11/18/cusz-selected-as-3rd-place-winner-of-acm-student-research-competition/</link><pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2019/11/18/cusz-selected-as-3rd-place-winner-of-acm-student-research-competition/</guid><description/></item><item><title>Meetings: Compression for scientific data</title><link>/next.szcompressor.github.io/meetings/isc19/</link><pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/meetings/isc19/</guid><description>
-&lt;p>DescriptionLarge-scale numerical simulations, observations and experiments are generating very large datasets that are difficult to analyze, store and transfer. Data compression is an attractive and efficient technique to significantly reduce the size of scientific datasets. This tutorial reviews the state of the art in lossy compression of scientific datasets, discusses in detail two lossy compressors (SZ and ZFP), introduces compression error assessment metrics and the Z-checker tool to analyze the difference between initial and decompressed datasets. The tutorial will offer hands-on exercises using SZ and ZFP as well as Z-checker. The tutorial addresses the following questions: Why lossless and lossy compression? How does compression work? How measure and control compression error? The tutorial uses examples of real-world compressors and scientific datasets to illustrate the different compression techniques and their performance. Participants will also have the opportunity to learn how to use SZ, ZFP and Z-checker for their own datasets. The tutorial is given by two of the leading teams in this domain and targets primarily beginners interested in learning about lossy compression for scientific data. This half-day tutorial is improved from the evaluations of the highly rated tutorials given on this topic at ISC17, SC17 and SC18.&lt;/p></description></item></channel></rss>
+&lt;p>Link to the &lt;a href="https://arxiv.org/abs/2010.10039">paper&lt;/a>&lt;/p></description></item><item><title>Blog: cuSZ selected as 3rd Place Winner of ACM Student Research Competition</title><link>/next.szcompressor.github.io/blog/2019/11/18/cusz-selected-as-3rd-place-winner-of-acm-student-research-competition/</link><pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2019/11/18/cusz-selected-as-3rd-place-winner-of-acm-student-research-competition/</guid><description/></item></channel></rss>
