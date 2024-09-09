@@ -9,7 +9,7 @@
 &lt;li>&lt;strong>Meeting Zoom&lt;/strong>: One &lt;a href="https://osu.zoom.us/j/96179446351?pwd=15zvSbB2QOlUMuddJj17HgdqfYhNuZ.1">Zoom link&lt;/a> for all the sessions&lt;/li>
 &lt;li>&lt;strong>Meeting docs&lt;/strong>: All slides can be found in this &lt;a href="https://drive.google.com/drive/folders/1X8GScASIoCFmxLp76z31RUvY5ggczQkE?usp=drive_link">shared folder&lt;/a>&lt;/li>
 &lt;li>&lt;strong>Parking Address&lt;/strong>: Tuttle Garage, 18USD/day&lt;/li>
-&lt;li>&lt;strong>Host&lt;/strong>: &lt;a href="guo.2154@osu.edu">Dr. Hanqi Gou&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Host&lt;/strong>: &lt;a href="guo.2154@osu.edu">Dr. Hanqi Guo&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h1 id="schedule">Schedule&lt;/h1>
 &lt;h2 id="day-before-sept-16">Day Before (Sept. 16)&lt;/h2>
@@ -41,9 +41,9 @@
 &lt;li>&lt;strong>01:00 PM&lt;/strong> Thrust III.A: Visualization, quality assessment, and optimization: (Chair: Hanqi 75 minutes)
 &lt;ul>
 &lt;li>Hanqi Guo: Progress on FZ-Viz&lt;/li>
-&lt;li>Yuxiao Li: MSZ preserving toplogogical features with compression&lt;/li>
+&lt;li>Yuxiao Li: MSZ preserving topological features with compression&lt;/li>
 &lt;li>Hrithik Devaiah Bollachettira Ajithkumar: Integration with Visualization Tools&lt;/li>
-&lt;li>Congrong Ren : Unstructured Mesh Compression&lt;/li>
+&lt;li>Congrong Ren: Unstructured Mesh Compression&lt;/li>
 &lt;li>Yongfeng Qiu: lossy compression for parallel vis&lt;/li>
 &lt;li>Yang Zhang (UIUC): Auto-encoders for Temporal Data&lt;/li>
 &lt;/ul>
