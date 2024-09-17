@@ -49,7 +49,7 @@ Thank you for attending the FZ workshop at Columbus!
     + Yang Zhang (UIUC): Auto-encoders for Temporal Data
 + **02:15 PM** Thrust III.B: Integrating Compression/Prediction into Applications (Chair: Sheng 75 minutes)
     + Jaijun Huang: Compression for MPI
-    + Arham Khan: SECRE
+    + Sheng Di for Arham Khan: SECRE
     + Hasanur Md Rahman: FRXZ
 + **03:30 PM** Break: 15 minutes
 + **03:45 PM** GPU Compression Modules (Chair: Jiannan Tian): 75 Minutes
