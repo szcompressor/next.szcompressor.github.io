@@ -48,7 +48,7 @@ Thank you for attending the FZ workshop at Columbus!
     + Yongfeng Qiu: lossy compression for parallel vis
     + Yang Zhang (UIUC): Auto-encoders for Temporal Data
 + **02:15 PM** Thrust III.B: Integrating Compression/Prediction into Applications (Chair: Sheng 75 minutes)
-    + Jaijun Huang: Compression for MPI
+    + Jiajun Huang: Codesigning Compression with Communication
     + Sheng Di for Arham Khan: SECRE
     + Hasanur Md Rahman: FRXZ
 + **03:30 PM** Break: 15 minutes
