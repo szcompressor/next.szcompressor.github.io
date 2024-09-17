@@ -16,7 +16,7 @@ Thank you for attending the FZ workshop at Columbus!
 + **Meeting Zoom**: One [Zoom link](https://osu.zoom.us/j/96179446351?pwd=15zvSbB2QOlUMuddJj17HgdqfYhNuZ.1) for all the sessions
 + **Meeting docs**: All slides can be found in this [shared folder](https://drive.google.com/drive/folders/1X8GScASIoCFmxLp76z31RUvY5ggczQkE?usp=drive_link)
 + **Parking Address**: Tuttle Garage, 18USD/day
-+ **Host**: [Dr. Hanqi Gou](guo.2154@osu.edu)
++ **Host**: [Dr. Hanqi Guo](guo.2154@osu.edu)
 
 # Schedule
 
@@ -42,9 +42,9 @@ Thank you for attending the FZ workshop at Columbus!
 + **12:00 PM** Working Lunch: retrospective how are things going so far for adoption?  What is working/not?: 60 minutes
 + **01:00 PM** Thrust III.A: Visualization, quality assessment, and optimization: (Chair: Hanqi 75 minutes)
     + Hanqi Guo: Progress on FZ-Viz
-    + Yuxiao Li: MSZ preserving toplogogical features with compression
+    + Yuxiao Li: MSZ preserving topological features with compression
     + Hrithik Devaiah Bollachettira Ajithkumar: Integration with Visualization Tools
-    + Congrong Ren : Unstructured Mesh Compression
+    + Congrong Ren: Unstructured Mesh Compression
     + Yongfeng Qiu: lossy compression for parallel vis
     + Yang Zhang (UIUC): Auto-encoders for Temporal Data
 + **02:15 PM** Thrust III.B: Integrating Compression/Prediction into Applications (Chair: Sheng 75 minutes)
