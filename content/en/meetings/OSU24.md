@@ -26,7 +26,7 @@ Thank you for attending the FZ workshop at Columbus!
 
 ## Day 1 (Sept. 17)
 
-+ **8:30 AM** Welcome/intro/presentation of the schedule: 15 minutes
++ **8:30 AM** Welcoming by Anish Arora (Distinguished Professor of Engineering and Chair, Computer Science and Engineering, Faculty Director, 5G-OH Connectivity Center), intro/presentation of the schedule: 15 minutes
 + **8:45 AM** State of the Project/Vision (Chair: Franck)
 + **9:00 AM** Thrust I: Compression API and Generators (Chair: Robert) Progress on Compression API and Generators: 75 minutes
     + Robert Underwood: Compiler Abstractions
