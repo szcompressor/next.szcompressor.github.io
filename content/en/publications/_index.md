@@ -17,6 +17,9 @@ This page presents the publications about SZ from the core group as well as publ
 <br />
 <ul>
 <li>
+[VIS'24]Y. Li, X. Liang, B. Wang, Y. Qiu, L. Yan and H. Guo, "MSz: An Efficient Parallel Algorithm for Correcting Morse-Smale Segmentations in Error-Bounded Lossy Compressors," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2024.3456337.
+</li>
+<li>
 [VLDB’22] Sian Jin, Chengming Zhang, Jiannan Tian, Yunhe Feng, Hui Guan, Guanpeng Li, Shuaiwen Leon Song, Dingwen Tao. “COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression.” The 48th International Conference on Very Large Data Bases (VLDB), Australia, September 5-9, 2022.
 </li>
 <li>
