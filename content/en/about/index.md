@@ -146,6 +146,10 @@ We work together with researcher all over the world to build the most advanced l
     <h5 style="width:150px;align-self:center">Yafan Huang</h5>
   </div>
   <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./jiajun.jpg" alt="Jiajun Huang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Jiajun Huang</h5>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Milan.png" alt="Milan Shah" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Milan Shah</h5>
   </div>
