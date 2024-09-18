@@ -161,6 +161,10 @@ We work together with researcher all over the world to build the most advanced l
     <img src="./LongTao.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Longtao Zhang</h5>
   </div>
+  <div>
+    <img src="./Yansong Yu.jpeg" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Yansong Yu</h5>
+  </div>
 </div>
 
 <!-- {{% blocks/section %}}
