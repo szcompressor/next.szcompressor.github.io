@@ -44,12 +44,12 @@ We work together with researcher all over the world to build the most advanced l
 </div>
 
 
-<a style="font-size: 30px;" href="https://www.dingwentao.com/" target="_blank">Dingwen Tao</a>
+<a style="font-size: 30px;" href="https://science.indianapolis.iu.edu/people-directory/people/song-fengguang.html" target="_blank">Fengguang Song</a>
 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://static.wixstatic.com/media/f33fae_5df34ff8a6b144c0acb0dbd7aa64caf5~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IU-Photo-Big_edited.jpg" alt="Dingwen Tao" style="float:left;width:100vh;height:20vh;">
-  <p style="margin-left: 20px;">Dingwen Tao is an Associate Professor at Indiana University Bloomington, where he directs the High-Performance Data Analytics and Computing Lab. He received his Ph.D. in Computer Science from the University of California, Riverside in 2018 and his B.S. in Mathematics from the University of Science and Technology of China in 2013. His research interests include high-performance computing (HPC), parallel and distributed systems, scientific data reduction and management, large-scale machine learning systems, and fault tolerance and resilience. He is the recipient of various awards, including the NSF CAREER Award (2023), Amazon Research Award (2022), Meta Research Award (2022), R&D100 Awards Winner (2021), IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in HPC (2020), NSF CRII Award (2020), and the IEEE CLUSTER Best Paper Award (2018). He serves on the Technical Review Board of IEEE Transactions on Parallel and Distributed Systems. He served as the Program Co-chair of IEEE ScalCom-2021, the ACM/IEEE DRBSD-9 workshop, and the IEEE IWBDR workshops. Additionally, he acts as a reviewer, program committee member, or session chair for major HPC venues such as SC, HPDC, ICS, IPDPS, CLUSTER, ICPP, CCGrid, and HiPC.</p>
+  <img src="https://science.indianapolis.iu.edu/images/profiles/tn/tn-new/song.jpg" alt="Fengguang Song" style="float:left;width:100vh;height:20vh;">
+  <p style="margin-left: 20px;">Fengguang Song is an Associate Professor of Computer Engineering in the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. He earned his Ph.D. in Computer Science from University of Tennessee at Knoxville under the direction of the 2021 Turing Award Winner, Jack Dongarra. After receiving his PhD, he continued to work with Jack as a Post-doctoral Research Associate between 2010 and 2012, then worked as a Senior Research Scientist in the Computer Science Lab at Samsung Research America-Silicon Valley. Between 2013 and 2023, Dr. Song worked as an Assistant Professor then Associate Professor of Computer Science at Indiana University Purdue University.</p>
 </div>
 
 
