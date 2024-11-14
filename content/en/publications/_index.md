@@ -11,11 +11,126 @@ menu: {main: {weight: 20}}
 <br />
 This page presents the publications about SZ from the core group as well as publications presenting other extensions, optimizations and implementations of SZ. If we missed publications, please contact us.
 
+<br />
+<text style="font-size:26px;font-weight:bold">2024</text>
+<br />
+<ul>
+<li>
 
+</li>
+</ul>
 
+<br />
+<text style="font-size:26px;font-weight:bold">2023</text>
+<br />
+<li>
+[HiPC'23] Arham Khan, Sheng Di, Kai Zhao, Jinyang Liu, Kyle Chaid, Ian Foster, Franck Cappello, "SECRE: Surrogate-based Error-controlled Lossy Compression Ratio Estimation Framework", in 30th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC2023), 2023.
+</li>
+<li>
+[HiPC'23] Pu Jiao, Sheng Di, Jinyang Liu, Xin Liang, Franck Cappello, "Characterization and Detection of Artifacts for Error-controlled Lossy Compressors", in 30th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC2023), 2023.
+</li>
+<li>
+[SRN'23] Robert Underwood, Chun Hong Yoon, Ali M. Gok, Sheng Di, Franck Cappello, "ROIBIN-SZ: Fast and Science-Preserving Compression for Serial Crystallography", Journal of Synchrotron Radiation News (SRN), 2023.
+</li>
+<li>
+[IJHPCA'23] Robert Underwood, Julie Bessac, David Krasowska, Jon C Calhoun, Sheng Di, Franck Cappello, "Black-box statistical prediction of lossy compression ratios for scientific data", International Journal of High Performance Computing Applications (IJHPCA2023), 2023, Volume 37, Issue 3-4.
+</li>
+<li>
+[CLUSTER'23] Arkaprabha Ganguli, Robert Underwood, Julie Bessac, David Krasowska, Jon Calhoun, Sheng Di, Franck Cappello, "A Lightweight, Effective Compressibility Estimation Method for Error-bounded Lossy Compression", in IEEE International Conference on Cluster Computing(IEEE CLUSTER2023), 2023.
+</li>
+<li>
+[CLUSTER'23 best poster finalist] Arham Khan, Sheng Di, Kai Zhao, Jinyang Liu, Kyle Chard, Ian Foster, Franck Cappello, "An Efficient and Accurate Compression Ratio Estimation Model for SZx", in IEEE International Conference on Cluster Computing(IEEE CLUSTER2023), 2023, [poster].
+</li>
+<li>
+[SC'23] Yafan Huang, Sheng Di, Xiaodong Yu, Guanpeng Li, Franck Cappello, "cuSZp: An Ultra-fast GPU Error-bounded Lossy Compression Framework with Optimized End-to-End Performance", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023.
+</li>
+<li>
+[SC'23] Daoce Wang, Jesus Pulido, Jiannan Tian, Sian Jin, Houjun Tang, Jean Sexton, Sheng Di, Kai Zhao, Bo Fang, Zarija Lukic, Franck Cappello, James Ahrens, Dingwen Tao, "AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023.
+</li>
+<li>
+[Bigdata'23] Jinyang Liu, Sheng Di, Sian Jin, Kai Zhao, Xin Liang, Zizhong Chen, Franck Cappello, "Scientific Error-bounded Lossy Compression with Super-resolution Neural Networks", in conjunction with IEEE International Conference on Big Data (IEEE BigData23), 2023.
+</li>
+<li>
+[IWBDR'23] Jiajun Huang, Jinyang Liu, Sheng Di, Yujia Zhai, Shixun Wu, Kai Zhao, Zizhong Chen, Yanfei Guo, Franck Cappello, "Exploring Wavelet Transform Usages for Error-bounded Scientific Data Compression", International Workshop on Big Data Reduction (IEEE IWBDR23) in conjunction with IEEE International Conference on Big Data (IEEE BigData23), 2023.
+</li>
+<li>
+[SC'23 poster] Jiajun Huang, Sheng Di, Xiaodong Yu, Zizhong Chen, Franck Cappello, Yanfei Guo, and Rajeev Thakur, "Accelerating Collective Communications with Lossy Compression on GPU", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023. [poster].
+</li>
+<li>
+[SC'23 poster] Avinash Kethineedi, Jon C. Calhoun, Robert Underwood, Sheng Di, Franck Cappello, "ROI Preservation in Streaming Lossy Compression", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023. [poster].
+</li>
+<li>
+[DRBSD'24] Robert R. Underwood, Sheng Di, Sian Jin, Md Hasanur Rahman, Arham Khan, Franck Cappello, "LibPressio-Predict: Flexible and Fast Infrastructure for Inferring Compression Performance", in Proceedings of the 7th International Workshop on Data Reduction for Big Scientific Data (DRBSD-9), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023.
+</li>
+<li>
+[ICS'23] Boyuan Zhang, Sheng Di, Xiaodong Yu, Martin Swany, Dingwen Tao, Franck Cappello, "GPULZ: Optimizing LZSS Lossless Compression for Multi-byte Data on Modern GPUs", in International Conference on Supercomputing (ACM ICS2023), 2023.
+</li>
+<li>
+[ICS'23] Milan Shah, Xiaodong Yu, Sheng Di, Michela Becchi, and Franck Cappello, "Lightweight Huffman Coding for Efficient GPU Compression", in International Conference on Supercomputing (ACM ICS2023), 2023.
+</li>
+<li>
+[ICS'23 best paper finalist] Jinyang Liu, Sheng Di, Kai Zhao, Xin Liang, Zizhong Chen, Franck Cappello, "FAZ: A flexible auto-tuned modular error-bounded compression framework for scientific data", in International Conference on Supercomputing (ACM ICS2023), 2023.
+</li>
+<li>
+[ICDCS'23] Yuanjian Liu, Sheng Di, Kyle Chard, Ian Foster, Franck Cappello, "Optimizing Scientific Data Transfer on Globus with Error-bounded Lossy Compression", in 43rd IEEE International Conference on Distributed Computing Systems (IEEE ICDCS2023), 2023.
+</li>
+<li>
+[HPDC'23] Boyuan Zhang, Jiannan Tian, Sheng Di, Xiaodong Yu, Yunhe Feng, Yunhe Feng, Xin Liang, Dingwen Tao, Franck Cappello, "FZ-GPU: A Fast and High-Ratio Lossy Compressor for Scientific Computing Applications on GPUs," in 32nd International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC2023), 2023.
+</li>
+<li>
+[CCGrid'23] Yafan Huang, Kai Zhao, Sheng Di, Guanpeng Li, Maxim Dmitriev, Thierry-Laurent D. Tonellot and Franck Cappello, "Towards Improving Reverse Time Migration Performance by High-speed Lossy Compression," in 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (ACM CCGrid2023), 2023.
+</li>
+<li>
+[IPDPS'23] Milan Shah, Xiaodong Yu, Sheng Di, Danylo Lykov, Yuri Alexeev, Michela Becchi, Franck Cappello, "GPU-Accelerated Error-Bounded Compression Framework for Quantum Circuit Simulations", in Proceedings of the 37th IEEE International Parallel and Distributed Processing Symposium (IPDPS2023), St. Petersburg, Florida, USA, May 15-June 19, 2023.
+</li>
+<li>
+[VLDB'23] Pu Jiao, Sheng Di, Hanqi Guo, Kai Zhao, Jiannan Tian, Dingwen Tao, Xin Liang, Franck Cappello, "Toward Quantity-of-Interest Preserving Lossy Compression for Scientific Data", in 49th International Conference on Very Large Database (VLDB 2023), 2023, Canada.
+</li>
+<li>
+[ICDE'23] Md Hasanur Rahman, Sheng Di, Kai Zhao, Robert Underwood, Guanpeng Li, Franck Cappello, "A Feature-Driven Fixed-Ratio Lossy Compression Framework for Real-World Scientific Datasets", in Proceeding of the 39th IEEE International Conference on Data Engineering (ICDE2023), 2023.
+</li>
+</ul>
+
+<br />
 <text style="font-size:26px;font-weight:bold">2022</text>
 <br />
 <ul>
+<li>
+[TVCG'22] Xin Liang, Sheng Di, Franck Cappello, Mukund Raj, Chunhui Liu, Kenji Ono, Zizhong Chen, Tom Peterka, and Hanqi Guo, "Toward Feature-Preserving Vector Field Compression", IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG), 2022.
+</li>
+<li>
+[DRBSD'22] Zhaoyuan Su, Sheng Di, Ali Murat Gok, Yue Cheng, Franck Cappello, "Understanding Impact of Lossy Compression on Derivative-related Metrics in Scientific Datasets", in Proceedings of the 7th International Workshop on Data Reduction for Big Scientific Data (DRBSD-8), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2022), 2022.
+</li>
+<li>
+[DRBSD'22 best paper] Robert Underwood, Julie Bessac, Sheng Di, Franck Cappello, "Understanding the Effects of Modern Compressors on the Community Earth Science Model", in Proceedings of the 7th International Workshop on Data Reduction for Big Scientific Data (DRBSD-8), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2022), 2022.
+</li>
+<li>
+[EAGE'22] Maxim Dmitriev, Thierry Tonellot, Hussain Salim , Sheng Di, "Error-bounded lossy compression in Reverse Time Migration", Sixth EAGE High Performance Computing Workshop (EAGE22), 2022.
+</li>
+<li>
+[MASCOTS'22] Griffin Dube, Jiannan Tian, Sheng Di, Dingwen Tao, Jon C. Calhoun, Franck Cappello, "Efficient Error-Bounded Lossy Compression for CPU Architectures", 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (IEEE MASCOTS 2022), Nice, France, 2022.
+</li>
+<li>
+[TBD'22] Xin Liang, Kai Zhao, Sheng Di, Sihuan Li, Robert Underwood, Ali M. Gok, Jiannan Tian, Junjing Deng, Jon C. Calhoun, Dingwen Tao, Zizhong Chen, Franck Cappello, "SZ3: A Modular Framework for Composing Prediction-Based Error-Bounded Lossy Compressors", IEEE Transactions on Big Data (IEEE TBD), 2022.
+</li>
+<li>
+[TPDS'22] Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Cheng Wang, Kyle Chard, Dingwen Tao, Ian Foster, Franck Cappello, "Optimizing Error-Bounded Lossy Compression for Scientific Data with Diverse Constraints", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2022.
+</li>
+<li>
+[CLUSTER'22] Ruiwen Shan, Sheng Di, Jon C. Calhoun, Franck Cappello, "Exploring Light-weight Cryptography for Efficient and Secure Lossy Data Compression", in IEEE CLUSTER2022, 2022.
+</li>
+<li>
+[SC'22] Sian Jin, Dingwen Tao, Houjun Tang, Sheng Di, Suren Byna, Zarija Lukic, Franck Cappello, "Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2022), 2022.
+</li>
+<li>
+[SC'22] Jinyang Liu, Sheng Di, Kai Zhao, Xin Liang, Zizhong Chen, Franck Cappello, "Dynamic Quality Metric Oriented Error Bounded Lossy Compression for Scientific Datasets", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2022), 2022.
+</li>
+<li>
+[SC'22-poster-2nd place of ACM SRC award] Milan Shah, Xiaodong Yu, Sheng Di, Franck Cappello, Michela Becchi, "Compressing Quantum Circuit Simulation Tensor Data", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2022), 2022. 
+</li>
+<li>
+[SC'22-poster-1st place of ACM SRC award] David Krasowska, Robert Underwood, Julie Bessac, Jon Calhoun, Sheng Di, Franck Cappello, "Statistical Prediction of Lossy Compression Ratios for 3D Scientific Data", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2022), 2022. 
+</li>
 <li>
 [VLDB’22] Sian Jin, Chengming Zhang, Jiannan Tian, Yunhe Feng, Hui Guan, Guanpeng Li, Shuaiwen Leon Song, Dingwen Tao. “COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression.” The 48th International Conference on Very Large Data Bases (VLDB), Australia, September 5-9, 2022.
 </li>
@@ -96,7 +211,7 @@ This page presents the publications about SZ from the core group as well as publ
 </ul>
 <br />
 <text style="font-size:26px;font-weight:bold">2020</text>
-<br />
+<br/>
 <ul>
 <li>
 [PPoPP’20] Jiannan Tian, Sheng Di, Chengming Zhang, Xin Liang, Sian Jin, Dazhao Cheng, Dingwen Tao, and Franck Cappello. “waveSZ: a hardware-algorithm co-design of efficient lossy compression for scientific data.” The 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, pp. 74-88. 2020. https://github.com/szcompressor/SZ_HLS
