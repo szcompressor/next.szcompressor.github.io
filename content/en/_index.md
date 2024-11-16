@@ -850,6 +850,7 @@ For announcement of latest features etc.
              id="tspan420"
              y="0"
              x="0">…</tspan></text>
+<!--
 </g></g><g
        id="g424"><g
          clip-path="url(#clipPath430)"
@@ -860,6 +861,7 @@ For announcement of latest features etc.
              id="tspan432"
              y="0"
              x="0 17.039352 34.258823">SZ4</tspan></text>
+-->
 </g></g><g
        id="g436"><g
          clip-path="url(#clipPath442)"
