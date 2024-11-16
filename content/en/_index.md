@@ -850,7 +850,6 @@ For announcement of latest features etc.
              id="tspan420"
              y="0"
              x="0">…</tspan></text>
-
 </g></g><g
        id="g424"><g
          clip-path="url(#clipPath430)"
