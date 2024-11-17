@@ -885,7 +885,7 @@ menu: {main: {weight: 20}}
            transform="matrix(1,0,0,-1,66.288,461.14)"><tspan
              id="tspan396"
              y="0"
-             x="0 17.039352 34.258823">SZ4</tspan></text>
+             x="0 17.039352 34.258823"></tspan></text>
 </g></g><g
        id="g400"><g
          clip-path="url(#clipPath406)"
