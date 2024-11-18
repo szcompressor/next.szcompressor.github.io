@@ -13,6 +13,9 @@ menu: {main: {weight: 20}}
 <text style="font-weight:bold;">SZ Software</text>
 <ul>
 <li>
+<a href="https://github.com/szcompressor/cuSZp">cuSZp</a>: An ultra-fast and user-friendly GPU error-bounded lossy compressor for floating-point data array
+</li>
+<li>
 <a href="https://github.com/szcompressor/FZ-GPU">FZ-GPU</a>: A fast and high-ratio lossy compressor for scientific computing applications on GPU
 </li>
 <li>
@@ -23,6 +26,9 @@ menu: {main: {weight: 20}}
 </li>
 <li>
 <a href="https://github.com/szcompressor/SZ">SZ 1</a>: CPU version of SZ v1.4 (integrated in v2.1; can be turned on in sz.config).
+</li>
+<li>
+<a href="https://github.com/szcompressor/szp">SZp</a>: The CPU version of cuSZp (supporting openMP).
 </li>
 <li>
 <a href="https://github.com/szcompressor/cuSZ">cuSZ</a>: CUDA version of SZ for GPUs.
