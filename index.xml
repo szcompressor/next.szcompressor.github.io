@@ -1,4 +1,28 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FZ – Goldydocs</title><link>/next.szcompressor.github.io/</link><description>Recent content in Goldydocs on FZ</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/next.szcompressor.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Meetings: FZ Workshop At OSU</title><link>/next.szcompressor.github.io/meetings/osu24/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/meetings/osu24/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FZ – Goldydocs</title><link>/next.szcompressor.github.io/</link><description>Recent content in Goldydocs on FZ</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/next.szcompressor.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Meetings: FZ workshop</title><link>/next.szcompressor.github.io/meetings/march25fl/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/meetings/march25fl/</guid><description>
+&lt;p>Thank you for considering attending the FZ workshop at Sarasota!&lt;/p>
+&lt;p>Dates, address, contact:&lt;/p>
+&lt;ul>
+&lt;li>Date: &lt;strong>March 11-13, 9:00 AM to 5:00 PM&lt;/strong>&lt;/li>
+&lt;li>Address: The John and Mable Ringling Museum of Art, 5401 Bay Shore Rd, Sarasota, FL 34243&lt;/li>
+&lt;li>Meeting room: Chao Lecture Hall.&lt;/li>
+&lt;li>&lt;strong>Important&lt;/strong>: Do &lt;strong>NOT&lt;/strong> use the main museum entrance. Please refer to &lt;a href="../Feb24FLMap.pdf">this map&lt;/a> for parking and
+entrance.&lt;/li>
+&lt;li>Meeting Zoom: One &lt;a href="">Zoom link&lt;/a> for all the sessions&lt;/li>
+&lt;li>Meeting docs: All slides can be found in
+this &lt;a href="https://drive.google.com/drive/folders/1WQhCd8xJXfZDjZXLHpsbSwnIgzOJ4hfA?usp=sharing">shared folder&lt;/a>&lt;/li>
+&lt;li>Please fill
+out &lt;a href="">this form&lt;/a>
+no matter you will attend in person or online)&lt;/li>
+&lt;li>We use Eastern Time (ET) for this workshop.&lt;/li>
+&lt;li>Host: Dr. Kai Zhao (&lt;a href="mailto:kai.zhao@fsu.edu">kai.zhao@fsu.edu&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;p>Schedule TBD:&lt;/p>
+&lt;ul>
+&lt;li>Day before (March. 10)&lt;/li>
+&lt;li>Day 1 (March. 11)&lt;/li>
+&lt;li>Day 2 (March. 12)&lt;/li>
+&lt;li>Day 3 (March. 12)&lt;/li>
+&lt;/ul></description></item><item><title>Meetings: FZ Workshop At OSU</title><link>/next.szcompressor.github.io/meetings/osu24/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/meetings/osu24/</guid><description>
 &lt;p>Thank you for attending the FZ workshop at Columbus!&lt;/p>
 &lt;h1 id="key-information-and-links">Key Information and Links:&lt;/h1>
 &lt;ul>
@@ -299,4 +323,4 @@ You can find the code for &lt;a href="https://github.com/szcompressor/SZ3">SZ3 o
 &lt;p>Large-scale numerical simulations and experiments are generating very large datasets that are difficult to analyze, store and transfer. This problem will be exacerbated for future generations of systems. Data reduction becomes a necessity in order to reduce as much as possible the time lost in data transfer and storage. Lossless and lossy data compression are attractive and efficient techniques to significantly reduce data sets while being rather agnostic to the application. This tutorial will review the state of the art in lossless and lossy compression of scientific data sets, discuss in detail two lossy compressors (SZ and ZFP) and introduce compression error assessment metrics. The tutorial will also cover the characterization of data sets with respect to compression and introduce Z-checker, a tool to assess compression error.&lt;/p>
 &lt;p>More specifically the tutorial will introduce motivating examples as well as basic compression techniques, cover the role of Shannon Entropy, the different types of advanced data transformation, prediction and quantization techniques, as well as some of the more popular coding techniques. The tutorial will use examples of real world compressors (GZIP, JPEG, FPZIP, SZ, ZFP, etc.) and data sets coming from simulations and instruments to illustrate the different compression techniques and their performance. This 1/2 day tutorial is improved from the evaluations of the two highly attended and rated tutorials given on this topic at ISC17 and SC17.&lt;/p></description></item><item><title>Blog: WaveSZ paper accepted</title><link>/next.szcompressor.github.io/blog/2019/12/20/wavesz-paper-accepted/</link><pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2019/12/20/wavesz-paper-accepted/</guid><description>
 &lt;p>Link to the &lt;a href="https://dl.acm.org/doi/10.1145/3332466.3374525">paper&lt;/a>&lt;/p></description></item><item><title>Blog: Huffman encoding on GPU paper accepted</title><link>/next.szcompressor.github.io/blog/2019/12/10/huffman-encoding-on-gpu-paper-accepted/</link><pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2019/12/10/huffman-encoding-on-gpu-paper-accepted/</guid><description>
-&lt;p>Link to the &lt;a href="https://arxiv.org/abs/2010.10039">paper&lt;/a>&lt;/p></description></item><item><title>Blog: cuSZ selected as 3rd Place Winner of ACM Student Research Competition</title><link>/next.szcompressor.github.io/blog/2019/11/18/cusz-selected-as-3rd-place-winner-of-acm-student-research-competition/</link><pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate><guid>/next.szcompressor.github.io/blog/2019/11/18/cusz-selected-as-3rd-place-winner-of-acm-student-research-competition/</guid><description/></item></channel></rss>
+&lt;p>Link to the &lt;a href="https://arxiv.org/abs/2010.10039">paper&lt;/a>&lt;/p></description></item></channel></rss>
