@@ -32,6 +32,7 @@ Schedule TBD:
 
 
 Hotels:
+
 March is a very busy season in Sarasota as it is a popular spring break destination. Please book your hotel as soon as possible. 
 We recommend staying at hotels that are within walking distance of the venue:
 + Hyatt Place Sarasota/Bradenton Airport
@@ -39,3 +40,12 @@ We recommend staying at hotels that are within walking distance of the venue:
 + Kompose Hotel Sarasota
 + Courtyard by Marriott Sarasota Bradenton Airport
 
+
+Transportation:
+
++ Sarasota airport (SRQ): 2 minutes driving to the museum (
+here is a link of cities with direct flights to SRQ airport: https://www.flightconnections.com/flights-from-sarasota-bradenton-srq)
++ Tampa Airport (TPA): 1 hour driving to the museum
++ Clearwater airport (PIE): 1 hour driving to the museum
++ Punta Gorda Airport (PGD): 1 hour driving to the museum 
++ Parking is free in the museum parking lot.
