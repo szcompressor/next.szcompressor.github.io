@@ -1,5 +1,5 @@
 ---
-title: FZ workshop
+title: FZ workshop at Sarasota Feb 2024
 date: 2024-01-05
 description: >
 
