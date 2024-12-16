@@ -166,6 +166,10 @@ We work together with researcher all over the world to build the most advanced l
     <img src="./YuxiaoLi.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Yuxiao Li</h5>
   </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Yongfeng Qiu.jpg" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Yongfeng Qiu</h5>
+  </div>
 </div>
 
 <!-- {{% blocks/section %}}
