@@ -44,11 +44,11 @@ We work together with researcher all over the world to build the most advanced l
 </div>
 
 
-<a style="font-size: 30px;" href="https://homes.luddy.indiana.edu/fgsong/" target="_blank">Fengguang Song</a>
+<a style="font-size: 30px;" href="https://science.indianapolis.iu.edu/people-directory/people/song-fengguang.html" target="_blank">Fengguang Song</a>
 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://homes.luddy.indiana.edu/fgsong/FGSong.jpg" alt="Fengguang Song" style="float:left;width:100vh;height:20vh;">
+  <img src="https://science.indianapolis.iu.edu/images/profiles/tn/tn-new/song.jpg" alt="Fengguang Song" style="float:left;width:100vh;height:20vh;">
   <p style="margin-left: 20px;">Fengguang Song is an Associate Professor of Computer Engineering in the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. He earned his Ph.D. in Computer Science from University of Tennessee at Knoxville under the direction of the 2021 Turing Award Winner, Jack Dongarra. After receiving his PhD, he continued to work with Jack as a Post-doctoral Research Associate between 2010 and 2012, then worked as a Senior Research Scientist in the Computer Science Lab at Samsung Research America-Silicon Valley. Between 2013 and 2023, Dr. Song worked as an Assistant Professor then Associate Professor of Computer Science at Indiana University Purdue University.</p>
 </div>
 
