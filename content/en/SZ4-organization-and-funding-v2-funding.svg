@@ -857,6 +857,7 @@
              id="tspan382"
              y="0"
              x="0 11.64 19.914">NSF</tspan></text>
+<!--
 </g></g><path
        id="path386"
        style="fill:none;stroke:#4472c4;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -870,6 +871,7 @@
              id="tspan396"
              y="0"
              x="0 17.039352 34.258823">SZ4</tspan></text>
+-->
 </g></g><g
        id="g400"><g
          clip-path="url(#clipPath406)"
@@ -987,7 +989,7 @@
            transform="matrix(1,0,0,-1,557.42,478.06)"><tspan
              id="tspan560"
              y="0"
-             x="0 11.07 22.914 31.698 36.521999 40.77 49.284 58.877998 68.129997 72.197998 81.648003 87.695999 97.181999 101.484 110.448 118.062">DOE: ECP project</tspan></text>
+             x="0 11.07 22.914 31.698 36.521999 40.77 49.284 58.877998 68.129997 72.197998 81.648003 87.695999 97.181999 101.484 110.448 118.062">DOE: ECP project and ASCR ZF project</tspan></text>
 </g></g><g
        id="g564"><g
          clip-path="url(#clipPath570)"
