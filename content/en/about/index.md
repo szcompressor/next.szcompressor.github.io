@@ -158,10 +158,13 @@ We work together with researcher all over the world to build the most advanced l
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Baixi_Sun.webp" alt="Baixi Sun" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Baixi Sun</h5>
-    </div>
-     <div style="display:flex;flex-direction:column;margin:5px;">
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Yansong Yu.jpeg" alt="Yansong Yu" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Yansong Yu</h5>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./YuxiaoLi.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Yuxiao Li</h5>
   </div>
 </div>
 
