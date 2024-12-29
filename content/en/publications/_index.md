@@ -74,6 +74,7 @@ This page presents the publications about SZ from the core group as well as publ
 <br />
 <text style="font-size:26px;font-weight:bold">2023</text>
 <br />
+<ul>
 <li>
 [HiPC'23] Arham Khan, Sheng Di, Kai Zhao, Jinyang Liu, Kyle Chaid, Ian Foster, Franck Cappello, "SECRE: Surrogate-based Error-controlled Lossy Compression Ratio Estimation Framework", in 30th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC2023), 2023.
 </li>
