@@ -10,7 +10,7 @@ menu: {main: {weight: 20}}
 <br />
 <br />
 <p>
-<text style="font-weight:bold;">SZ Software</text>
+<text style="font-weight:bold;">SZ-family Software Products</text>
 <ul>
 <li>
 <a href="https://github.com/szcompressor/cuSZp">cuSZp</a>: An ultra-fast and user-friendly GPU error-bounded lossy compressor for floating-point data array
@@ -20,6 +20,9 @@ menu: {main: {weight: 20}}
 </li>
 <li>
 <a href="https://github.com/szcompressor/QoZ">QoZ</a>: Quality-oriented error-bounded lossy compressor
+</li>
+<li>
+<a href="https://github.com/szcompressor/QoZ/tree/2.0">QoZ2.0</a>: Quality-oriented error-bounded lossy compressor version 2.0 (corresponding to the HPEZ paper: <a href="https://dl.acm.org/doi/10.1145/3639259">HPEZ</a>)
 </li>
 <li>
 <a href="https://github.com/szcompressor/SZ">SZ 2</a>: CPU version of SZ v2.1.
@@ -37,7 +40,7 @@ menu: {main: {weight: 20}}
 <a href="https://github.com/szcompressor/kokkosSZ">kSZ</a>: A portable accelerator implementation of SZ using Kokkos programming model.
 </li>
 <li>
-<a href="https://github.com/szcompressor/SZ3_Private">Interp-SZ</a>: Spline-interpolation based error-bounded compressor. [need particular permission to access]
+<a href="https://github.com/szcompressor/SZ3">Interp-SZ/SZ3</a>: Spline-interpolation based error-bounded compressor.
 </li>
 <li>
 <a href="https://github.com/szcompressor/DeepSZ">DeepSZ</a>: Deep neural network (DNN) model compressor.
